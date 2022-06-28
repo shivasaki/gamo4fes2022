@@ -1,0 +1,90 @@
+<div *ngIf="{path:{town: (townImage$ | async), gyammossy: (gyammosyImage$ | async) }} as images"
+     class="top-page-content" id="parallax" [class.is-loaded]="isLoaded">
+  <div class="main-image">
+    <div class="bg-content town bg-image parallax-el"
+         data-speed-y="-15" data-offset="0"
+         [style.background-image]="images.path?.town ? 'url('+ (images.path?.town) + ')' : null"
+    ></div>
+    <div class="bg-content gyammossy bg-image"
+         [style.background-image]="images.path?.gyammossy ? 'url('+ (images.path?.gyammossy) + ')' : null"
+    ></div>
+    <div class="cloud cloud-1 bg-image"></div>
+    <div class="cloud cloud-2 bg-image"></div>
+    <div class="laptop">
+      <div class="laptop-image"></div>
+    </div>
+    <div class="comment">
+      <div class="comment-image"></div>
+    </div>
+    <div class="kira"></div>
+    <div class="logo-content bg-image">がもよんフェス2020 - 2021</div>
+    <div class="top-message" [class.is-loaded]="isLoaded">
+      Thank you for watching!!
+      <p>ご視聴ありがとうございました ☺︎</p>
+    </div>
+  </div>
+  <div class="main-content container">
+    <!--主宰者からのメッセージ-->
+    <div class="section organizer-message-content parallax-el"
+         [class.is-loaded]="isLoaded"
+         data-speed-y="-5" data-offset="50">
+      <app-organize-message></app-organize-message>
+    </div>
+
+    <!--アーティスト-->
+    <section class="section parallax-el" id="artist"
+             data-speed-y="-5" data-offset="50">
+      <div class="circle-content c1 parallax-el" data-speed-y="-35" data-offset="200"></div>
+      <div class="circle-content c4 parallax-el" data-speed-y="-30" data-offset="250"></div>
+      <div class="circle-content c2 parallax-el" data-speed-y="-15" data-offset="-300"></div>
+      <h2 class="heading-content">
+        <span class="heading-text">Artist</span>
+        <span class="heading-text-jp">出演者</span>
+      </h2>
+      <div class="body-content">
+        <app-artists-tab></app-artists-tab>
+      </div>
+    </section>
+    <!--    &lt;!&ndash;ライブ&ndash;&gt;-->
+    <!--    <section class="section live-section parallax-el" id="live"-->
+    <!--             data-speed-y="-5" data-offset="-100">-->
+    <!--      <div class="circle-content c3 parallax-el" data-speed-y="-25" data-offset="-300"></div>-->
+    <!--      <div class="circle-content c1 parallax-el" data-speed-y="-35" data-offset="400"></div>-->
+    <!--      <div class="circle-content c2 parallax-el" data-speed-y="-30" data-offset="250"></div>-->
+    <!--      <div class="inner">-->
+    <!--        <h2 class="heading-content">-->
+    <!--          <span class="heading-text">Live</span>-->
+    <!--          <span class="heading-text-jp">ライブ配信</span>-->
+    <!--        </h2>-->
+    <!--        <div class="body-content">-->
+    <!--          <app-youtube-player></app-youtube-player>-->
+    <!--        </div>-->
+    <!--      </div>-->
+    <!--    </section>-->
+
+    <!--アーカイブ-->
+    <section class="section live-section parallax-el"
+             data-speed-y="-3" data-offset="-60" id="archive">
+      <div class="circle-content c3 parallax-el" data-speed-y="-25" data-offset="-300"></div>
+      <div class="circle-content c1 parallax-el" data-speed-y="-35" data-offset="400"></div>
+      <div class="circle-content c2 parallax-el" data-speed-y="-30" data-offset="250"></div>
+      <div class="inner">
+        <h2 class="heading-content">
+          <span class="heading-text">Archive</span>
+          <span class="heading-text-jp">ライブ配信 アーカイブ</span>
+        </h2>
+        <div class="body-content">
+          <app-archive-list></app-archive-list>
+        </div>
+      </div>
+    </section>
+
+    <!--協賛-->
+    <section class="section supporter-section parallax-el"
+             data-speed-y="-3" data-offset="0">
+      <app-supporter-info></app-supporter-info>
+    </section>
+  </div>
+  <app-footer class="app-footer"></app-footer>
+</div>
+<app-scroll-top-button></app-scroll-top-button>

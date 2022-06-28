@@ -1,0 +1,14 @@
+{
+  "targets": {
+    "gamo4fes": {
+      "hosting": {
+        "gamoyon": [
+          "gamo4fes"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "gamo4fes"
+  }
+}

@@ -1,0 +1,170 @@
+@import "../variables";
+
+@mixin icomoom() {
+  /* use !important to prevent issues with browser extensions that change fonts */
+  font-family: 'icomoon' !important;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  speak: none;
+  /* Better Font Rendering =========== */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+@font-face {
+  font-family: 'icomoon';
+  src: url($fonts-path + '/icomoon/icomoon.eot?9juisr');
+  src: url($fonts-path + '/icomoon/icomoon.eot?9juisr#iefix') format('embedded-opentype'),
+  url($fonts-path + '/icomoon/icomoon.ttf?9juisr') format('truetype'),
+  url($fonts-path + '/icomoon/icomoon.woff?9juisr') format('woff'),
+  url($fonts-path + '/icomoon/icomoon.svg?9juisr#icomoon') format('svg');
+  font-weight: normal;
+  font-style: normal;
+  font-display: block;
+}
+
+[class^="icomoon-"], [class*=" icomoon-"] {
+  @include icomoom();
+}
+
+[class^="icomoon-18"], [class*=" icomoon-18"] {
+  font-size: 18px !important;
+}
+
+[class^="icomoon-24"], [class*=" icomoon-24"] {
+  font-size: 24px !important;
+}
+
+[class^="icomoon-30"], [class*=" icomoon-30"] {
+  font-size: 30px !important;
+}
+
+.icomoon-angle-down-solid:before {
+  content: "\e902";
+}
+
+.icomoon-angle-left-solid:before {
+  content: "\e900";
+}
+
+.icomoon-angle-right-solid:before {
+  content: "\e901";
+}
+
+.icomoon-angle-up-solid:before {
+  content: "\e903";
+}
+
+.icomoon-bus-solid:before {
+  content: "\e904";
+}
+
+.icomoon-car-side-solid:before {
+  content: "\e905";
+}
+
+.icomoon-clock-regular:before {
+  content: "\e906";
+}
+
+.icomoon-drum-solid:before {
+  content: "\e907";
+}
+
+.icomoon-facebook-brands:before {
+  content: "\e908";
+}
+
+.icomoon-facebook-f-brands:before {
+  content: "\e909";
+}
+
+.icomoon-gem-regular:before {
+  content: "\e90a";
+}
+
+.icomoon-guitar-solid:before {
+  content: "\e90b";
+}
+
+.icomoon-hamburger-solid:before {
+  content: "\e90c";
+}
+
+.icomoon-info-solid:before {
+  content: "\e90d";
+}
+
+.icomoon-instagram-brands:before {
+  content: "\e90e";
+}
+
+.icomoon-itunes-note-brands:before {
+  content: "\e90f";
+}
+
+.icomoon-laptop-solid:before {
+  content: "\e910";
+}
+
+.icomoon-list-alt-regular:before {
+  content: "\e911";
+}
+
+.icomoon-list-solid:before {
+  content: "\e912";
+}
+
+.icomoon-map-marked-alt-solid:before {
+  content: "\e913";
+}
+
+.icomoon-map-marker-alt-solid:before {
+  content: "\e914";
+}
+
+.icomoon-map-regular:before {
+  content: "\e916";
+}
+
+.icomoon-music-solid:before {
+  content: "\e917";
+}
+
+.icomoon-question-circle-regular:before {
+  content: "\e918";
+}
+
+.icomoon-subway-solid:before {
+  content: "\e919";
+}
+
+.icomoon-tshirt-solid:before {
+  content: "\e91a";
+}
+
+.icomoon-twitter-brands:before {
+  content: "\e91b";
+}
+
+.icomoon-utensils-solid:before {
+  content: "\e91c";
+}
+
+.icomoon-youtube-brands:before {
+  content: "\e91d";
+}
+
+.icomoon-dots-three-horizontal:before {
+  content: "\e628";
+}
+
+.icomoon-tel:before {
+  content: "\f095";
+}
+
+.icomoon-tags:before {
+  content: "\e915";
+}

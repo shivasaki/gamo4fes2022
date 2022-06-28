@@ -1,0 +1,11 @@
+<ul class="supporter-list">
+  <li *ngFor="let supporter of supporters" class="list-item">
+    <a class="anchor-link" [href]="supporter.linkUrl"
+       target="_blank" title="{{supporter.name}}">
+      <figure class="image-wrapper">
+        <img class="image-content" [src]="getThumbUrl(supporter.id)" alt="{{supporter.name}}" draggable="false">
+      </figure>
+      <!--      <span class="link-label">{{supporter.name}}</span>-->
+    </a>
+  </li>
+</ul>

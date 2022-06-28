@@ -1,0 +1,242 @@
+@import "node_modules/bootstrap-sass/assets/stylesheets/bootstrap/variables";
+
+//
+// modal スタイル
+//
+@mixin modalBase() {
+  .modal-inner {
+    width: 100%;
+    .heading-content {
+      padding: 4px 8px;
+      .btn-close {
+        padding: 4px;
+        color: #333;
+        appearance: none;
+        outline: none;
+        border: none;
+        background: transparent;
+        .cross-mark {
+          display: inline-block;
+          width: 30px;
+          height: 30px;
+          position: relative;
+          transform: rotate(45deg);
+          &:hover {
+            opacity: .9;
+          }
+          &:before {
+            content: '';
+            display: inline-block;
+            position: absolute;
+            left: 0;
+            right: 0;
+            top: 0;
+            bottom: 0;
+            margin: auto;
+            width: 100%;
+            height: 1px;
+            background-color: #666;
+          }
+          &:after {
+            content: '';
+            display: inline-block;
+            position: absolute;
+            left: 0;
+            right: 0;
+            top: 0;
+            bottom: 0;
+            margin: auto;
+            width: 1px;
+            height: 100%;
+            background-color: #666;
+          }
+        }
+      }
+    }
+  }
+
+  .modal-body {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    .left-content {
+      width: 50%;
+      padding: 0 24px 0 0;
+      .image-content {
+        width: 100%;
+        height: 400px;
+        display: inline-block;
+        background-size: cover;
+        background-position: center center;
+        background-repeat: no-repeat;
+        border-radius: 8px;
+      }
+    }
+    .right-content {
+      position: relative;
+      width: 50%;
+      padding-bottom: 40px;
+      .name-content {
+        font-size: 26px;
+        letter-spacing: .05em;
+        margin-bottom: 8px;
+        padding: 0 0 4px 0;
+        border-bottom: 1px solid #aaa;
+        font-weight: 300;
+        font-family: 'Noto Sans JP', sans-serif;
+      }
+    }
+
+    .sns-link-contents {
+      position: absolute;
+      bottom: 4px;
+      left: 0;
+      font-size: 16px;
+      .sns-link {
+        display: inline-block;
+        text-decoration: none;
+        color: #666;
+        margin-right: 16px;
+        .icomoon-laptop-solid {
+          font-size: 13px;
+        }
+        &:hover {
+          opacity: .8;
+        }
+      }
+    }
+    .description-content {
+      min-height: 250px;
+      padding: 8px 8px 0 0;
+      display: flex;
+      align-items: center;
+      font-size: 13px;
+      .description-text {
+        margin: 0;
+        color: #666;
+        white-space: pre-line;
+        letter-spacing: .05em;
+        line-height: 1.8;
+      }
+    }
+  }
+
+  /**
+* SP
+*/
+  @media screen and (max-width: $screen-md) {
+    .modal-body {
+      flex-direction: column;
+      align-items: center;
+      .heading-wrapper {
+        width: 100%;
+        padding-bottom: 8px;
+        .name-content {
+          font-size: 26px;
+          letter-spacing: .05em;
+          margin-bottom: 4px;
+          font-weight: 300;
+          font-family: "Noto Sans JP", sans-serif;
+        }
+        .information-content {
+          font-size: 12px;
+          color: #666;
+          text-align: right;
+          .information-top-content {
+            .stage-content {
+              display: inline-block;
+              margin-left: 8px;
+              vertical-align: middle;
+              .stage-name {
+                display: inline-block;
+                margin-right: 8px;
+                vertical-align: middle;
+                .stage-text {
+                  vertical-align: middle;
+                  font-weight: bold;
+                  font-family: sans-serif;
+                }
+                > i {
+                  margin-right: 4px;
+                  vertical-align: middle;
+                }
+              }
+              .stage-time {
+                display: inline-block;
+                vertical-align: middle;
+              }
+            }
+          }
+        }
+      }
+      .left-content {
+        width: 100%;
+        padding: 0 0 16px;
+        .image-content {
+          width: 100%;
+          height: 400px;
+          display: inline-block;
+        }
+      }
+      .right-content {
+        width: 100%;
+        padding-bottom: 32px;
+        .name-content {
+          font-size: 22px;
+        }
+        .description-content {
+          min-height: 40px;
+        }
+        .sns-link-contents {
+          width: 100%;
+          text-align: right;
+        }
+      }
+    }
+
+  }
+
+  @media screen and (max-width: $screen-xs) {
+    .modal-body {
+      .heading-wrapper {
+        padding-bottom: 8px;
+        .name-content {
+          font-size: 24px;
+          margin-bottom: 4px;
+        }
+        .information-content {
+          font-size: 11px;
+          .information-top-content {
+            .stage-content {
+              margin-left: 8px;
+              .stage-name {
+                margin-right: 8px;
+                .stage-text {
+                }
+              }
+            }
+          }
+        }
+      }
+      .left-content {
+        padding: 0;
+        .image-content {
+          height: 250px;
+        }
+      }
+      .right-content {
+        width: 100%;
+        padding-bottom: 32px;
+        .description-content {
+          min-height: 40px;
+          font-size: 12px;
+        }
+        .sns-link-contents {
+          width: 100%;
+          text-align: right;
+        }
+      }
+    }
+
+  }
+}

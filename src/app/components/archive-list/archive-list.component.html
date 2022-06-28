@@ -1,0 +1,14 @@
+<div class="archive-list-content">
+  <ng-container *ngFor="let archive of archives; index as i">
+    <div class="player-content">
+      <iframe width="90%" [src]="safeUrls[i]" frameborder="0"
+              allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+              allowfullscreen
+      ></iframe>
+      <h4 class="player-heading">{{archive.archiveDate | date:'M/d'}}
+        <small>({{archive.archiveDate | date:'E'}})</small>
+        <small *ngIf="archive.caption" class="caption">{{archive.caption}}</small>
+      </h4>
+    </div>
+  </ng-container>
+</div>

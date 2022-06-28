@@ -1,0 +1,80 @@
+[
+  {
+    "id": 1,
+    "name": "株式会社 角屋 がもよんビル",
+    "web_url": "https://www.kado-ya.jp/",
+    "image_path": "assets/images/supports/logo_1.png"
+  },
+  {
+    "id": 2,
+    "name": "牛乳石鹸共進社株式会社",
+    "web_url": "http://www.cow-soap.co.jp/web/",
+    "image_path": "assets/images/supports/logo_2.png"
+  },
+  {
+    "id": 3,
+    "name": "BIG ECHO 蒲生四丁目店",
+    "web_url": "https://www.hotpepper.jp/strJ000650514/",
+    "image_path": "assets/images/supports/logo_3.png"
+  },
+  {
+    "id": 4,
+    "name": "スギタハウジング株式会社",
+    "web_url": "http://sugitacrest.com",
+    "image_path": "assets/images/supports/logo_4.png"
+  },
+  {
+    "id": 5,
+    "name": "AMUSE 城東店",
+    "web_url": "https://genpu.co.jp/amuse/",
+    "image_path": "assets/images/supports/logo_5.png"
+  },
+  {
+    "id": 6,
+    "name": "B4 soundworks studio",
+    "web_url": "https://www.b4soundworks.com/",
+    "image_path": "assets/images/supports/logo_6.png"
+  },
+  {
+    "id": 7,
+    "name": "交通事故むち打ち専門 いまふく鶴見鍼灸整骨院",
+    "web_url": "http://imafuku-seikotsu.com",
+    "image_path": "assets/images/supports/logo_7.png"
+  },
+  {
+    "id": 8,
+    "name": "がもよんにぎわいプロジェクト",
+    "web_url": "http://r-play.jp/gamo4project/",
+    "image_path": "assets/images/supports/logo_8.png"
+  },
+  {
+    "id": 9,
+    "name": "コメダ珈琲店 蒲生4丁目西店",
+    "web_url": "http://www.komeda.co.jp/",
+    "image_path": "assets/images/supports/logo_9.png"
+  },
+  {
+    "id": 10,
+    "name": "街角ギター写真Guitarsnaps",
+    "web_url": "https://guitarsnaps.jimdo.com",
+    "image_path": "assets/images/supports/logo_10.png"
+  },
+  {
+    "id": 11,
+    "name": "有限会社 赤羽根",
+    "web_url": "https://www.akabane-net.co.jp",
+    "image_path": "assets/images/supports/logo_11.png"
+  },
+  {
+    "id": 12,
+    "name": "株式会社ISL",
+    "web_url": null,
+    "image_path": "assets/images/supports/logo_12.png"
+  },
+  {
+    "id": 13,
+    "name": "株式会社さくらクリエイターズ",
+    "web_url": null,
+    "image_path": "assets/images/supports/logo_13.png"
+  }
+]

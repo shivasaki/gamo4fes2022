@@ -1,0 +1,2390 @@
+[
+  {
+    "id": 1,
+    "name": "あおいはるか",
+    "genre": "J-POP",
+    "web_url": "https://aoiharuka-aoharu.jimdo.com",
+    "youtube_url": null,
+    "twitter_url": null,
+    "instagram_url": null,
+    "facebook_url": null,
+    "image_path": "assets/images/artists/artist_1.jpg",
+    "profile_text": null,
+    "stage1_name": "Machi cafe",
+    "stage1_date_at": "13:55-14:20",
+    "stage2_name": null,
+    "stage2_date_at": null,
+    "stages": [
+      {
+        "stage_name": "Machi cafe",
+        "stage_date_at": "13:55-14:20"
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "name": "赤尾一路",
+    "genre": "Pops",
+    "web_url": null,
+    "youtube_url": "https://youtu.be/v_Q9k7WgK0",
+    "twitter_url": null,
+    "instagram_url": null,
+    "facebook_url": null,
+    "image_path": "assets/images/artists/artist_2.jpg",
+    "profile_text": null,
+    "stage1_name": "馬肉料理専門店 和み家",
+    "stage1_date_at": "12:20-12:45",
+    "stage2_name": null,
+    "stage2_date_at": null,
+    "stages": [
+      {
+        "stage_name": "馬肉料理専門店 和み家",
+        "stage_date_at": "12:20-12:45"
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "name": "アコーディボーンズ",
+    "genre": "セミクラシック・ポップス",
+    "web_url": null,
+    "youtube_url": null,
+    "twitter_url": "https://twitter.com/May_accordion",
+    "instagram_url": null,
+    "facebook_url": null,
+    "image_path": "assets/images/artists/artist_3.jpg",
+    "profile_text": "トロンボーン・バストロンボーン・アコーディオンの変わった楽器の組み合わせのトリオです。高槻ジャスストリートや横手音フェスティバル公募制音楽イベントを中心に演奏をしています。去年のがもよんフェスが楽しかったので、また出られることが嬉しいです。トロンボーンが主役の曲から「こんな曲できるよ！」という曲まで、幅広く楽しんでいただけるアコーディボーンズを宜しくお願いいたします！",
+    "stage1_name": "39BAR BANBAN",
+    "stage1_date_at": "16:35-17:00",
+    "stage2_name": null,
+    "stage2_date_at": null,
+    "stages": [
+      {
+        "stage_name": "39BAR BANBAN",
+        "stage_date_at": "16:35-17:00"
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "name": "荒井光",
+    "genre": "POPS",
+    "web_url": "https://profile.ameba.jp/me",
+    "youtube_url": null,
+    "twitter_url": null,
+    "instagram_url": null,
+    "facebook_url": null,
+    "image_path": "assets/images/artists/artist_4.jpg",
+    "profile_text": "山形県出身・シンガーソングライター。都内を中心に活動中。YTS山形テレビ深夜版「Do～んな天気」２０１８/５月度タイアップ【会いに行かないと】全国発売中",
+    "stage1_name": "cafe bar 鐘の音",
+    "stage1_date_at": "14:50-15:15",
+    "stage2_name": "蒲生おでん 笑月 wazuki",
+    "stage2_date_at": "19:05-19:30",
+    "stages": [
+      {
+        "stage_name": "cafe bar 鐘の音",
+        "stage_date_at": "14:50-15:15"
+      },
+      {
+        "stage_name": "蒲生おでん 笑月 wazuki",
+        "stage_date_at": "19:05-19:30"
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "name": "安西彩矢",
+    "genre": "ポップス",
+    "web_url": "https://anzaiaya.jimdo.com",
+    "youtube_url": null,
+    "twitter_url": null,
+    "instagram_url": null,
+    "facebook_url": null,
+    "image_path": "assets/images/artists/artist_5.jpg",
+    "profile_text": "大阪出身。ギター弾き語りシンガーソングライター。音楽大学でクラシックを学び、友達の誘いで出演したYAMAHAのmusic revolusionで審査員特別賞を受賞。その後作詞作曲をはじめる。現在オリジナル曲は１０００曲以上。カラオケまねきねこ主催オーディション「すきドルプロジェクト５」準グランプリ。",
+    "stage1_name": "cafe bar 鐘の音",
+    "stage1_date_at": "17:45-18:10",
+    "stage2_name": null,
+    "stage2_date_at": null,
+    "stages": [
+      {
+        "stage_name": "cafe bar 鐘の音",
+        "stage_date_at": "17:45-18:10"
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "name": "andmo'",
+    "genre": "pops・phychedelic rock",
+    "web_url": null,
+    "youtube_url": "https://www.youtube.com/channel/UCBGwG0Cm7O8-XISkxJ-78",
+    "twitter_url": null,
+    "instagram_url": null,
+    "facebook_url": null,
+    "image_path": "assets/images/artists/artist_6.jpg",
+    "profile_text": "児島佐織（theremin,syunth.)と菊池誠（Gt.,theremin）によるインストルメンタル・ロック・デュオ。テルミン奏者ふたりのバンドはたぶん世界でも珍しい。テルミンをメインにサイケデリック、プログレッシブ・ロック的な音を展開した２０１３年発売の１stアルバム Unidentified Mystic Aether（完売）を近日リマスターを施し再発売の予定。",
+    "stage1_name": "カラオケiisole",
+    "stage1_date_at": "14:40-15:05",
+    "stage2_name": null,
+    "stage2_date_at": null,
+    "stages": [
+      {
+        "stage_name": "カラオケiisole",
+        "stage_date_at": "14:40-15:05"
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "name": "市川セカイ",
+    "genre": "アコースティック",
+    "web_url": "https://www.ichikawasekai.com/",
+    "youtube_url": null,
+    "twitter_url": null,
+    "instagram_url": null,
+    "facebook_url": null,
+    "image_path": "assets/images/artists/artist_7.jpg",
+    "profile_text": "高知県土佐市出身、大阪在住。２００６年にMANASLAYPNILEでCharプロデュース、UNIVERSAL Jよりメジャーデビュー。年間１５０本程のライブがライフワークであり、他にもCMソングなどの楽曲提供、編曲、デザインなどマルチな才能を持つ。天性のグッドメロディと伸びやかな優しい声、人の心を掬い上げるような歌を歌うシンガーソングライター。",
+    "stage1_name": "城東商店街 角屋ステージ",
+    "stage1_date_at": "15:30-15:55",
+    "stage2_name": "Machi cafe",
+    "stage2_date_at": "17:25-17:50",
+    "stages": [
+      {
+        "stage_name": "城東商店街 角屋ステージ",
+        "stage_date_at": "15:30-15:55"
+      },
+      {
+        "stage_name": "Machi cafe",
+        "stage_date_at": "17:25-17:50"
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "name": "一畳さえこ(ex.毛皮のさえこ)",
+    "genre": "弾き語りPUNK",
+    "web_url": null,
+    "youtube_url": null,
+    "twitter_url": "https://twitter.com/sae_pagne",
+    "instagram_url": null,
+    "facebook_url": null,
+    "image_path": "assets/images/artists/artist_8.jpg",
+    "profile_text": null,
+    "stage1_name": "イタリアンバール ISOLA",
+    "stage1_date_at": "16:15-16:40",
+    "stage2_name": null,
+    "stage2_date_at": null,
+    "stages": [
+      {
+        "stage_name": "イタリアンバール ISOLA",
+        "stage_date_at": "16:15-16:40"
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "name": "一山楓",
+    "genre": "POPS",
+    "web_url": "https://t.co/tTx0UqHGdu?amp=1",
+    "youtube_url": null,
+    "twitter_url": null,
+    "instagram_url": null,
+    "facebook_url": null,
+    "image_path": "assets/images/artists/artist_9.jpg",
+    "profile_text": null,
+    "stage1_name": "café de GAMOYON",
+    "stage1_date_at": "16:05-16:30",
+    "stage2_name": null,
+    "stage2_date_at": null,
+    "stages": [
+      {
+        "stage_name": "café de GAMOYON",
+        "stage_date_at": "16:05-16:30"
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "name": "岩内幸乃",
+    "genre": "POPS",
+    "web_url": null,
+    "youtube_url": null,
+    "twitter_url": "https://twitter.com/sswyukky",
+    "instagram_url": null,
+    "facebook_url": null,
+    "image_path": "assets/images/artists/artist_10.jpg",
+    "profile_text": "大阪で活動している小学六年生シンガーソングライターです。ギターの弾き語りをしています。この夏に初めてのオリジナル曲を作詞作曲しました。いましか聴けない小学生が等身大で描く曲、聴いてみませんか？",
+    "stage1_name": "カラオケiisole",
+    "stage1_date_at": "12:20-12:45",
+    "stage2_name": null,
+    "stage2_date_at": null,
+    "stages": [
+      {
+        "stage_name": "カラオケiisole",
+        "stage_date_at": "12:20-12:45"
+      }
+    ]
+  },
+  {
+    "id": 11,
+    "name": "岩部真実",
+    "genre": "POPS",
+    "web_url": null,
+    "youtube_url": null,
+    "twitter_url": "https://twitter.com/mamiii8",
+    "instagram_url": null,
+    "facebook_url": null,
+    "image_path": "assets/images/artists/artist_11.jpg",
+    "profile_text": null,
+    "stage1_name": "城東商店街 角屋ステージ",
+    "stage1_date_at": "16:40-17:05",
+    "stage2_name": null,
+    "stage2_date_at": null,
+    "stages": [
+      {
+        "stage_name": "城東商店街 角屋ステージ",
+        "stage_date_at": "16:40-17:05"
+      }
+    ]
+  },
+  {
+    "id": 12,
+    "name": "ウエダケイタ",
+    "genre": "アコースティック弾き語り",
+    "web_url": "https://www.uedakeita.com",
+    "youtube_url": null,
+    "twitter_url": null,
+    "instagram_url": null,
+    "facebook_url": null,
+    "image_path": "assets/images/artists/artist_12.jpg",
+    "profile_text": null,
+    "stage1_name": "cafe bar 鐘の音",
+    "stage1_date_at": "16:35-17:00",
+    "stage2_name": "カラオケiisole",
+    "stage2_date_at": "18:45-19:10",
+    "stages": [
+      {
+        "stage_name": "cafe bar 鐘の音",
+        "stage_date_at": "16:35-17:00"
+      },
+      {
+        "stage_name": "カラオケiisole",
+        "stage_date_at": "18:45-19:10"
+      }
+    ]
+  },
+  {
+    "id": 13,
+    "name": "ウエノタカユキ",
+    "genre": "Acoustic/Jazz/Blues/Soul/Pops",
+    "web_url": "https://buenavistaband.wixsite.com/uenpvista",
+    "youtube_url": null,
+    "twitter_url": null,
+    "instagram_url": null,
+    "facebook_url": null,
+    "image_path": "assets/images/artists/artist_13.jpg",
+    "profile_text": null,
+    "stage1_name": "イタリアンバール ISOLA",
+    "stage1_date_at": "20:20-20:45",
+    "stage2_name": null,
+    "stage2_date_at": null,
+    "stages": [
+      {
+        "stage_name": "イタリアンバール ISOLA",
+        "stage_date_at": "20:20-20:45"
+      }
+    ]
+  },
+  {
+    "id": 14,
+    "name": "宇佐美みお",
+    "genre": "エンターテイナー",
+    "web_url": null,
+    "youtube_url": null,
+    "twitter_url": "https://twitter.com/wataame61/",
+    "instagram_url": null,
+    "facebook_url": null,
+    "image_path": "assets/images/artists/artist_14.jpg",
+    "profile_text": "シンガーソングライターであり、役者である、エンターテイナー宇佐美みお。１１/７あべのROCKTOWNにてワンマンエンターテインメントショー開催決定！「しあわせになりたい人、ここにおいで。」",
+    "stage1_name": "Machi cafe",
+    "stage1_date_at": "12:10-12:35",
+    "stage2_name": null,
+    "stage2_date_at": null,
+    "stages": [
+      {
+        "stage_name": "Machi cafe",
+        "stage_date_at": "12:10-12:35"
+      }
+    ]
+  },
+  {
+    "id": 15,
+    "name": "唄井直哉",
+    "genre": "Pop＆Rock",
+    "web_url": "https://utainaoya.com",
+    "youtube_url": null,
+    "twitter_url": null,
+    "instagram_url": null,
+    "facebook_url": null,
+    "image_path": "assets/images/artists/artist_15.jpg",
+    "profile_text": null,
+    "stage1_name": "café de GAMOYON",
+    "stage1_date_at": "16:40-17:05",
+    "stage2_name": "cafe bar 鐘の音",
+    "stage2_date_at": "20:05-20:30",
+    "stages": [
+      {
+        "stage_name": "café de GAMOYON",
+        "stage_date_at": "16:40-17:05"
+      },
+      {
+        "stage_name": "cafe bar 鐘の音",
+        "stage_date_at": "20:05-20:30"
+      }
+    ]
+  },
+  {
+    "id": 16,
+    "name": "Unyo303",
+    "genre": "電子音楽",
+    "web_url": "http://www.unyo303.com/",
+    "youtube_url": null,
+    "twitter_url": null,
+    "instagram_url": null,
+    "facebook_url": null,
+    "image_path": "assets/images/artists/artist_16.jpg",
+    "profile_text": "関西を中心に様々な空間で、モジュラーシンセサイザーによるライブパフォーマンスを披露。五線譜の時間軸から飛び出したサウンドは、聴く人を不思議な電子音の世界へ誘っている。大志賀淳監督による日本初のシンセサイザードキュメンタリー映画「ナニワのシンセ界」、宇川直宏主宰「DOMMUNE/KANDA INDUSTRIAL」等に出演。電子音楽人を招いてのライブ＆トーク「電音ハッカーズ」主宰。",
+    "stage1_name": "和dining DANDAN",
+    "stage1_date_at": "15:30-16:00",
+    "stage2_name": null,
+    "stage2_date_at": null,
+    "stages": [
+      {
+        "stage_name": "和dining DANDAN",
+        "stage_date_at": "15:30-16:00"
+      }
+    ]
+  },
+  {
+    "id": 17,
+    "name": "オーヤヒカル",
+    "genre": "J-POP",
+    "web_url": null,
+    "youtube_url": "https://m.youtube.com/channel/UCVqe-TztGdtj-hWSVglxZBA",
+    "twitter_url": null,
+    "instagram_url": null,
+    "facebook_url": null,
+    "image_path": "assets/images/artists/artist_17.jpg",
+    "profile_text": null,
+    "stage1_name": "馬肉料理専門店 和み家",
+    "stage1_date_at": "14:40-15:05",
+    "stage2_name": null,
+    "stage2_date_at": null,
+    "stages": [
+      {
+        "stage_name": "馬肉料理専門店 和み家",
+        "stage_date_at": "14:40-15:05"
+      }
+    ]
+  },
+  {
+    "id": 18,
+    "name": "大野賢治",
+    "genre": "POPS",
+    "web_url": "http://ono-ken.net",
+    "youtube_url": null,
+    "twitter_url": null,
+    "instagram_url": null,
+    "facebook_url": null,
+    "image_path": "assets/images/artists/artist_18.jpg",
+    "profile_text": "ストリートライブで100人以上の集客を可能にし培ったエンターテイナー能力で\n ライブハウスを中心にその場にいる全ての人を絶対的に笑顔にさせるような存在感で歌い続けるSSW。\n 「NHKのど自慢」チャンピオン賞を獲得し、サタデーホットリクエストウルフルズスペシャルにてオープニングアクトを務める\n 抜群の歌唱力と心地良くも鋭いリズムを刻むギターに加え変幻自在の\n ライブパフォーマンスはその場にいる人の心を掴んで離さない。",
+    "stage1_name": "城東商店街 角屋ステージ",
+    "stage1_date_at": "14:55-15:20",
+    "stage2_name": "蒲生おでん 笑月 wazuki",
+    "stage2_date_at": "19:40-20:05",
+    "stages": [
+      {
+        "stage_name": "城東商店街 角屋ステージ",
+        "stage_date_at": "14:55-15:20"
+      },
+      {
+        "stage_name": "蒲生おでん 笑月 wazuki",
+        "stage_date_at": "19:40-20:05"
+      }
+    ]
+  },
+  {
+    "id": 19,
+    "name": "オール電化ひょうたん",
+    "genre": "ひょうたん音楽",
+    "web_url": null,
+    "youtube_url": null,
+    "twitter_url": null,
+    "instagram_url": null,
+    "facebook_url": null,
+    "image_path": "assets/images/artists/artist_19.jpg",
+    "profile_text": "ひょうたんを種から育て、その実から楽器というよりは音の出るものを自作し、演奏する一人ユニット。ひょうたん音のエレキ化および自動演奏化により、なんとかして植物で電子音楽を奏でようとする無謀な試みです。\n (90年代伝説のフリーペーパー「花形文化通信」の今年復活したウェブサイトにて「ひょうたん日記」連載。種から音楽が生まれるまでを紹介しています。)",
+    "stage1_name": "和dining DANDAN",
+    "stage1_date_at": "13:30-14:00",
+    "stage2_name": null,
+    "stage2_date_at": null,
+    "stages": [
+      {
+        "stage_name": "和dining DANDAN",
+        "stage_date_at": "13:30-14:00"
+      }
+    ]
+  },
+  {
+    "id": 20,
+    "name": "おさやとしずか",
+    "genre": "JPOP",
+    "web_url": null,
+    "youtube_url": "https://m.youtube.com/watch?v=1c2TavFy-Mk",
+    "twitter_url": null,
+    "instagram_url": null,
+    "facebook_url": null,
+    "image_path": "assets/images/artists/artist_20.jpg",
+    "profile_text": "cafe bar 鐘の音 店主2人のアコースティックユニット。がもよんフェスをきっかけに2017年、結成。\nバンド活動を経て出逢った異なるメンバーでボーカル２人がアコースティックギター片手に、鐘の音の月一ライブイベント『オトのほころび』にて現在は定期的にライブを行っている。",
+    "stage1_name": "cafe bar 鐘の音",
+    "stage1_date_at": "12:30-12:55",
+    "stage2_name": null,
+    "stage2_date_at": null,
+    "stages": [
+      {
+        "stage_name": "cafe bar 鐘の音",
+        "stage_date_at": "12:30-12:55"
+      }
+    ]
+  },
+  {
+    "id": 21,
+    "name": "快賊guild+",
+    "genre": "ロック",
+    "web_url": "https://kaizokuyokkun.wixsite.com/kaizoku-guild-plus",
+    "youtube_url": null,
+    "twitter_url": null,
+    "instagram_url": null,
+    "facebook_url": null,
+    "image_path": "assets/images/artists/artist_21.jpg",
+    "profile_text": "元セブンデイズブッカー、現AZYTATE店主よっくん率いるロックバンド。日々感じることの中や、日々の暮らしから生み出される旋律と言葉をもとに、自分自身の視点のみならず、あらゆる角度から「生きる」ということを唄う。",
+    "stage1_name": "STUDIO GEAR",
+    "stage1_date_at": "12:45-13:10",
+    "stage2_name": "蒲生おでん 笑月 wazuki",
+    "stage2_date_at": "16:45-17:10",
+    "stages": [
+      {
+        "stage_name": "STUDIO GEAR",
+        "stage_date_at": "12:45-13:10"
+      },
+      {
+        "stage_name": "蒲生おでん 笑月 wazuki",
+        "stage_date_at": "16:45-17:10"
+      }
+    ]
+  },
+  {
+    "id": 22,
+    "name": "かしもとゆか",
+    "genre": "ウクレレ弾き語り",
+    "web_url": "https://87yk78.jimdo.com/",
+    "youtube_url": null,
+    "twitter_url": null,
+    "instagram_url": null,
+    "facebook_url": null,
+    "image_path": "assets/images/artists/artist_22.jpg",
+    "profile_text": "ウクレレ弾き語り。２０１６年よりソロ活動開始。心斎橋FootRock&BEERSにて定期的に自主企画「Ska vi fika?」を開催。昨年からは地元である奈良県吉野で主催の「七夕フェス」を開催。また出張喫茶Kafé Berså（珈琲屋）もおこなう。",
+    "stage1_name": "café de GAMOYON",
+    "stage1_date_at": "13:10-13:35",
+    "stage2_name": null,
+    "stage2_date_at": null,
+    "stages": [
+      {
+        "stage_name": "café de GAMOYON",
+        "stage_date_at": "13:10-13:35"
+      }
+    ]
+  },
+  {
+    "id": 23,
+    "name": "加藤謙太",
+    "genre": "J-POP",
+    "web_url": null,
+    "youtube_url": null,
+    "twitter_url": "https://twitter.com/kenkecha",
+    "instagram_url": null,
+    "facebook_url": null,
+    "image_path": "assets/images/artists/artist_23.jpg",
+    "profile_text": "ガモヨンフェスのメンバーが大好きで、そんな大好きなフェスで歌わせてもらえる幸せを精一杯届けたいと思います！！",
+    "stage1_name": "Machi cafe",
+    "stage1_date_at": "16:15-16:40",
+    "stage2_name": null,
+    "stage2_date_at": null,
+    "stages": [
+      {
+        "stage_name": "Machi cafe",
+        "stage_date_at": "16:15-16:40"
+      }
+    ]
+  },
+  {
+    "id": 24,
+    "name": "門並明日香",
+    "genre": "アコースティック/ポップス",
+    "web_url": "http://www.jam-st.ne.jp/usp/produce/asuka0627/asuka.htm",
+    "youtube_url": null,
+    "twitter_url": null,
+    "instagram_url": null,
+    "facebook_url": null,
+    "image_path": "assets/images/artists/artist_24.jpg",
+    "profile_text": "ピアノ弾き語りの形式を中心に活動するシンガーソングライター。心に染み渡るような、尚且力強い歌声を持ち味とし、大阪・関東・名古屋など、幅広く活動している。私の歌で、疲れた心を癒しに来ませんか？",
+    "stage1_name": "イタリアンバール ISOLA",
+    "stage1_date_at": "15:40-16:05",
+    "stage2_name": null,
+    "stage2_date_at": null,
+    "stages": [
+      {
+        "stage_name": "イタリアンバール ISOLA",
+        "stage_date_at": "15:40-16:05"
+      }
+    ]
+  },
+  {
+    "id": 25,
+    "name": "加納兄弟",
+    "genre": "沖縄音楽",
+    "web_url": null,
+    "youtube_url": null,
+    "twitter_url": null,
+    "instagram_url": null,
+    "facebook_url": null,
+    "image_path": "assets/images/artists/artist_25.jpg",
+    "profile_text": null,
+    "stage1_name": "カラオケiisole",
+    "stage1_date_at": "14:05-14:30",
+    "stage2_name": "蒲生おでん 笑月 wazuki",
+    "stage2_date_at": "16:10-16:35",
+    "stages": [
+      {
+        "stage_name": "カラオケiisole",
+        "stage_date_at": "14:05-14:30"
+      },
+      {
+        "stage_name": "蒲生おでん 笑月 wazuki",
+        "stage_date_at": "16:10-16:35"
+      }
+    ]
+  },
+  {
+    "id": 26,
+    "name": "kanga L kangaRoo",
+    "genre": "POPS/ROCK",
+    "web_url": "https://kangalkanngaroo.com/",
+    "youtube_url": null,
+    "twitter_url": null,
+    "instagram_url": null,
+    "facebook_url": null,
+    "image_path": "assets/images/artists/artist_26.jpg",
+    "profile_text": null,
+    "stage1_name": "STUDIO GEAR",
+    "stage1_date_at": "18:45-19:10",
+    "stage2_name": null,
+    "stage2_date_at": null,
+    "stages": [
+      {
+        "stage_name": "STUDIO GEAR",
+        "stage_date_at": "18:45-19:10"
+      }
+    ]
+  },
+  {
+    "id": 27,
+    "name": "菊田雪心",
+    "genre": "POPS",
+    "web_url": "https://snowycuorek.amebaownd.com/",
+    "youtube_url": null,
+    "twitter_url": null,
+    "instagram_url": null,
+    "facebook_url": null,
+    "image_path": "assets/images/artists/artist_27.jpg",
+    "profile_text": null,
+    "stage1_name": "カラオケiisole",
+    "stage1_date_at": "12:55-13:20",
+    "stage2_name": null,
+    "stage2_date_at": null,
+    "stages": [
+      {
+        "stage_name": "カラオケiisole",
+        "stage_date_at": "12:55-13:20"
+      }
+    ]
+  },
+  {
+    "id": 28,
+    "name": "岸田冬志樹",
+    "genre": "Acoustic/Rock",
+    "web_url": "https://kishidatoshiki.wixsite.com/soulbeatlifetime",
+    "youtube_url": null,
+    "twitter_url": null,
+    "instagram_url": null,
+    "facebook_url": null,
+    "image_path": "assets/images/artists/artist_28.jpg",
+    "profile_text": "『生きる』をテーマに掲げ音楽活動を展開するAcoustic魂Rocker。\n \n ◆PSPゲームソフト『雅恋-MIYAKO-』主題歌\n ◆千葉TVドラマ『SECRET★PLAN』主題歌\n \n HPhttps://kishidatoshiki.wixsite.com/soulbeatlifetime\n Twitterhttp://twitter.com/kishi_toshi\n \n ◆毎月第2・第4木曜日21:00から配信アプリShowroomにてHopBankとの音楽ユニット「コロッケ家族」定期配信中。\n \n https://www.showroom-live.com/894cc2168065\n \n ◆ラジオ『音無しくなれないふたり』パーソナリティ\n http://www.tokyonetradio.com/ch/otnsknrniftr.html",
+    "stage1_name": "馬肉料理専門店 和み家",
+    "stage1_date_at": "17:00-17:25",
+    "stage2_name": "39BAR BANBAN",
+    "stage2_date_at": "18:20-18:45",
+    "stages": [
+      {
+        "stage_name": "馬肉料理専門店 和み家",
+        "stage_date_at": "17:00-17:25"
+      },
+      {
+        "stage_name": "39BAR BANBAN",
+        "stage_date_at": "18:20-18:45"
+      }
+    ]
+  },
+  {
+    "id": 29,
+    "name": "岸本 丈夫",
+    "genre": "POPS",
+    "web_url": "https://calendar.google.com/calendar/embed?src=84adct2osgrii4ae40t9qlbjfk%40group.calendar.google.com&ctz=Asia%2FTokyo",
+    "youtube_url": null,
+    "twitter_url": null,
+    "instagram_url": null,
+    "facebook_url": null,
+    "image_path": "assets/images/artists/artist_29.jpg",
+    "profile_text": null,
+    "stage1_name": "Machi cafe",
+    "stage1_date_at": "15:40-16:05",
+    "stage2_name": null,
+    "stage2_date_at": null,
+    "stages": [
+      {
+        "stage_name": "Machi cafe",
+        "stage_date_at": "15:40-16:05"
+      }
+    ]
+  },
+  {
+    "id": 30,
+    "name": "キタムラリョウ",
+    "genre": "フォーク",
+    "web_url": "https://kitamuraryo.jimdo.com/",
+    "youtube_url": null,
+    "twitter_url": null,
+    "instagram_url": null,
+    "facebook_url": null,
+    "image_path": "assets/images/artists/artist_30.jpg",
+    "profile_text": null,
+    "stage1_name": "39BAR BANBAN",
+    "stage1_date_at": "20:05-20:30",
+    "stage2_name": null,
+    "stage2_date_at": null,
+    "stages": [
+      {
+        "stage_name": "39BAR BANBAN",
+        "stage_date_at": "20:05-20:30"
+      }
+    ]
+  },
+  {
+    "id": 31,
+    "name": "玄洋",
+    "genre": "POPS",
+    "web_url": "http://www.music-scene.jp/geny0725",
+    "youtube_url": null,
+    "twitter_url": null,
+    "instagram_url": null,
+    "facebook_url": null,
+    "image_path": "assets/images/artists/artist_31.jpg",
+    "profile_text": "げんよう 兵庫県出身。1993年7月25日生まれ\n 関西と東京を中心に活動するピアノ弾き語りシンガーソングライター。\n 飾らない言葉で心のありのままを歌い、年間100本近いライブを行なっている。",
+    "stage1_name": "イタリアンバール ISOLA",
+    "stage1_date_at": "13:55-14:20",
+    "stage2_name": null,
+    "stage2_date_at": null,
+    "stages": [
+      {
+        "stage_name": "イタリアンバール ISOLA",
+        "stage_date_at": "13:55-14:20"
+      }
+    ]
+  },
+  {
+    "id": 32,
+    "name": "COKERA",
+    "genre": "J-POP",
+    "web_url": null,
+    "youtube_url": null,
+    "twitter_url": "https://twitter.com/COKERA_SN",
+    "instagram_url": null,
+    "facebook_url": null,
+    "image_path": "assets/images/artists/artist_32.jpg",
+    "profile_text": null,
+    "stage1_name": "蒲生おでん 笑月 wazuki",
+    "stage1_date_at": "17:55-18:20",
+    "stage2_name": null,
+    "stage2_date_at": null,
+    "stages": [
+      {
+        "stage_name": "蒲生おでん 笑月 wazuki",
+        "stage_date_at": "17:55-18:20"
+      }
+    ]
+  },
+  {
+    "id": 33,
+    "name": "後藤タカヒロ",
+    "genre": "POPS",
+    "web_url": null,
+    "youtube_url": "https://youtu.be/FovRsilGzBc",
+    "twitter_url": null,
+    "instagram_url": null,
+    "facebook_url": null,
+    "image_path": "assets/images/artists/artist_33.jpg",
+    "profile_text": null,
+    "stage1_name": "cafe bar 鐘の音",
+    "stage1_date_at": "17:10-17:35",
+    "stage2_name": null,
+    "stage2_date_at": null,
+    "stages": [
+      {
+        "stage_name": "cafe bar 鐘の音",
+        "stage_date_at": "17:10-17:35"
+      }
+    ]
+  },
+  {
+    "id": 34,
+    "name": "小日向まひろ",
+    "genre": "POPS",
+    "web_url": null,
+    "youtube_url": null,
+    "twitter_url": "https://twitter.com/mahiro_kohinata",
+    "instagram_url": null,
+    "facebook_url": null,
+    "image_path": "assets/images/artists/artist_34.jpg",
+    "profile_text": "鳥を愛し鳥に愛される系シンガーソングライター小日向まひろです。オカーメインコは可愛いね♪YES!!",
+    "stage1_name": "Machi cafe",
+    "stage1_date_at": "15:05-15:30",
+    "stage2_name": null,
+    "stage2_date_at": null,
+    "stages": [
+      {
+        "stage_name": "Machi cafe",
+        "stage_date_at": "15:05-15:30"
+      }
+    ]
+  },
+  {
+    "id": 35,
+    "name": "咲弥",
+    "genre": "POPS",
+    "web_url": null,
+    "youtube_url": null,
+    "twitter_url": "https://twitter.com/sakuya_ssw",
+    "instagram_url": null,
+    "facebook_url": null,
+    "image_path": "assets/images/artists/artist_35.jpg",
+    "profile_text": null,
+    "stage1_name": "蒲生おでん 笑月 wazuki",
+    "stage1_date_at": "18:30-18:55",
+    "stage2_name": null,
+    "stage2_date_at": null,
+    "stages": [
+      {
+        "stage_name": "蒲生おでん 笑月 wazuki",
+        "stage_date_at": "18:30-18:55"
+      }
+    ]
+  },
+  {
+    "id": 36,
+    "name": "佐々木晃生(無重力のレシピ)",
+    "genre": "POPS",
+    "web_url": null,
+    "youtube_url": "https://youtu.be/KUREm3bLoC8",
+    "twitter_url": null,
+    "instagram_url": null,
+    "facebook_url": null,
+    "image_path": "assets/images/artists/artist_36.jpg",
+    "profile_text": "メッセージが伝わる情景をコンセプトに絵を描くように曲を書く。また、ハスキーかつ伸びやかという相反する要素を持つ歌声は幅広い層から支持を得る。\n ２０１６年、野外フェス「みんなのレシピ」＠上野恩賜水上野外音楽堂を主催。２０１７年、同イベント来場者数延べ３３６２人。２０１９年、同イベントを２days開催。来場者数延べ２７１６人に達し、大盛況のうちに幕を閉じる。",
+    "stage1_name": "城東商店街 角屋ステージ",
+    "stage1_date_at": "16:05-16:30",
+    "stage2_name": "馬肉料理専門店 和み家",
+    "stage2_date_at": "17:35-18:00",
+    "stages": [
+      {
+        "stage_name": "城東商店街 角屋ステージ",
+        "stage_date_at": "16:05-16:30"
+      },
+      {
+        "stage_name": "馬肉料理専門店 和み家",
+        "stage_date_at": "17:35-18:00"
+      }
+    ]
+  },
+  {
+    "id": 37,
+    "name": "Salia",
+    "genre": "POPS",
+    "web_url": "https://www.singer-salia.com/",
+    "youtube_url": null,
+    "twitter_url": null,
+    "instagram_url": null,
+    "facebook_url": null,
+    "image_path": "assets/images/artists/artist_37.jpg",
+    "profile_text": "弾き語りやバンド、JAZZシンガーとしてマルチに活動しているボーカリスト。\n JAZZ・ROCK・POPS等、あらゆるジャンルに影響を受け作られた楽曲は必聴。\n 2020年3月13日に心斎橋JANUSで行われる、自身3度目となるワンマンライブに向け、動員300人を目指し精力的に活動中。\n 会うごとに進化を遂げるステージングに注目。",
+    "stage1_name": "馬肉料理専門店 和み家",
+    "stage1_date_at": "16:25-16:50",
+    "stage2_name": "39BAR BANBAN",
+    "stage2_date_at": "19:30-19:55",
+    "stages": [
+      {
+        "stage_name": "馬肉料理専門店 和み家",
+        "stage_date_at": "16:25-16:50"
+      },
+      {
+        "stage_name": "39BAR BANBAN",
+        "stage_date_at": "19:30-19:55"
+      }
+    ]
+  },
+  {
+    "id": 38,
+    "name": "さんかくとバツ",
+    "genre": "POPSROCK",
+    "web_url": "http://sankakutobatsu.com/",
+    "youtube_url": null,
+    "twitter_url": null,
+    "instagram_url": null,
+    "facebook_url": null,
+    "image_path": "assets/images/artists/artist_38.jpg",
+    "profile_text": null,
+    "stage1_name": "STUDIO GEAR",
+    "stage1_date_at": "19:30-19:55",
+    "stage2_name": null,
+    "stage2_date_at": null,
+    "stages": [
+      {
+        "stage_name": "STUDIO GEAR",
+        "stage_date_at": "19:30-19:55"
+      }
+    ]
+  },
+  {
+    "id": 39,
+    "name": "SIG&かみん",
+    "genre": "沖縄風ポップスほか",
+    "web_url": null,
+    "youtube_url": null,
+    "twitter_url": null,
+    "instagram_url": null,
+    "facebook_url": "https://www.facebook.com/Sig",
+    "image_path": "assets/images/artists/artist_39.jpg",
+    "profile_text": "おしゃべり担当のSIGと、居眠り担当のかみんによるオリジナル沖縄風ポップス＆moreな、のんびりふんわりユニット♫口癖は「OH YEAH！」、合言葉は「皆様の明日に笑顔がありますように！」",
+    "stage1_name": "39BAR BANBAN",
+    "stage1_date_at": "16:00-16:25",
+    "stage2_name": null,
+    "stage2_date_at": null,
+    "stages": [
+      {
+        "stage_name": "39BAR BANBAN",
+        "stage_date_at": "16:00-16:25"
+      }
+    ]
+  },
+  {
+    "id": 40,
+    "name": "しなだゆかり",
+    "genre": "POPS",
+    "web_url": "http://shinadayukari.jimdo.com",
+    "youtube_url": null,
+    "twitter_url": null,
+    "instagram_url": null,
+    "facebook_url": null,
+    "image_path": "assets/images/artists/artist_40.jpg",
+    "profile_text": "大阪出身、在住の今年で活動５周年を迎えるシンガーソングライター。温かく、そして熱く紡ぐ言葉を柔らかな歌声・表情に乗せ、背中を押し自然に元気にさせてくれる。今年の11/21(木）心斎橋Music Club JANUSにて、初のフルアルバム「縁ーyukari」のリリースを記念としたワンマンライブの開催が決定。",
+    "stage1_name": "城東商店街 角屋ステージ",
+    "stage1_date_at": "12:35-13:00",
+    "stage2_name": "cafe bar 鐘の音",
+    "stage2_date_at": "18:55-19:20",
+    "stages": [
+      {
+        "stage_name": "城東商店街 角屋ステージ",
+        "stage_date_at": "12:35-13:00"
+      },
+      {
+        "stage_name": "cafe bar 鐘の音",
+        "stage_date_at": "18:55-19:20"
+      }
+    ]
+  },
+  {
+    "id": 41,
+    "name": "しばたやん子",
+    "genre": "音楽",
+    "web_url": null,
+    "youtube_url": null,
+    "twitter_url": "https://twitter.com/kuraponz",
+    "instagram_url": null,
+    "facebook_url": null,
+    "image_path": "assets/images/artists/artist_41.jpg",
+    "profile_text": "大阪府富田林市からきました。しばたやん子です。平成生まれ、昭和育ち。ギター持って唄ってます。出逢ってくれて、出逢わせてくれてありがとう。",
+    "stage1_name": "カラオケiisole",
+    "stage1_date_at": "17:00-17:25",
+    "stage2_name": null,
+    "stage2_date_at": null,
+    "stages": [
+      {
+        "stage_name": "カラオケiisole",
+        "stage_date_at": "17:00-17:25"
+      }
+    ]
+  },
+  {
+    "id": 42,
+    "name": "ジンベエザメ彗星",
+    "genre": "ROCK,POPS",
+    "web_url": null,
+    "youtube_url": null,
+    "twitter_url": "https://twitter.com/wscomet",
+    "instagram_url": null,
+    "facebook_url": null,
+    "image_path": "assets/images/artists/artist_42.jpg",
+    "profile_text": null,
+    "stage1_name": "STUDIO GEAR",
+    "stage1_date_at": "12:00-12:25",
+    "stage2_name": null,
+    "stage2_date_at": null,
+    "stages": [
+      {
+        "stage_name": "STUDIO GEAR",
+        "stage_date_at": "12:00-12:25"
+      }
+    ]
+  },
+  {
+    "id": 43,
+    "name": "Spring Wind Colors",
+    "genre": "中高生兄妹ユニット",
+    "web_url": null,
+    "youtube_url": null,
+    "twitter_url": null,
+    "instagram_url": null,
+    "facebook_url": null,
+    "image_path": "assets/images/artists/artist_43.jpg",
+    "profile_text": null,
+    "stage1_name": "39BAR BANBAN",
+    "stage1_date_at": "17:10-17:35",
+    "stage2_name": null,
+    "stage2_date_at": null,
+    "stages": [
+      {
+        "stage_name": "39BAR BANBAN",
+        "stage_date_at": "17:10-17:35"
+      }
+    ]
+  },
+  {
+    "id": 44,
+    "name": "武下直樹",
+    "genre": "POPS",
+    "web_url": "http://05.mbsp.jp/tkch/",
+    "youtube_url": null,
+    "twitter_url": null,
+    "instagram_url": null,
+    "facebook_url": null,
+    "image_path": "assets/images/artists/artist_44.jpg",
+    "profile_text": null,
+    "stage1_name": "城東商店街 角屋ステージ",
+    "stage1_date_at": "13:45-14:10",
+    "stage2_name": null,
+    "stage2_date_at": null,
+    "stages": [
+      {
+        "stage_name": "城東商店街 角屋ステージ",
+        "stage_date_at": "13:45-14:10"
+      }
+    ]
+  },
+  {
+    "id": 45,
+    "name": "竹中麻実子",
+    "genre": "Pop/Rock",
+    "web_url": null,
+    "youtube_url": "https://youtu.be/1frXtyjdpsl",
+    "twitter_url": null,
+    "instagram_url": null,
+    "facebook_url": null,
+    "image_path": "assets/images/artists/artist_45.jpg",
+    "profile_text": "シンガーソングライター。愛をこめて。",
+    "stage1_name": "イタリアンバール ISOLA",
+    "stage1_date_at": "18:35-19:00",
+    "stage2_name": null,
+    "stage2_date_at": null,
+    "stages": [
+      {
+        "stage_name": "イタリアンバール ISOLA",
+        "stage_date_at": "18:35-19:00"
+      }
+    ]
+  },
+  {
+    "id": 46,
+    "name": "蔦江タイチ",
+    "genre": "アコースティックポップス",
+    "web_url": "https://ameblo.jp/t-taichi-t/",
+    "youtube_url": null,
+    "twitter_url": null,
+    "instagram_url": null,
+    "facebook_url": null,
+    "image_path": "assets/images/artists/artist_46.jpg",
+    "profile_text": "１９８７年１月９日、大阪生まれ。関西を中心に活動しているギター弾き語りシンガーソングライター。音楽を通して、皆が楽しくなったり、せつなくなったりなどのいろんな想いを感じることができるような、いろいろな意味での「あったかな」音楽をやっていこうと日々活動している。",
+    "stage1_name": "café de GAMOYON",
+    "stage1_date_at": "12:35-13:00",
+    "stage2_name": "カラオケiisole",
+    "stage2_date_at": "19:20-19:45",
+    "stages": [
+      {
+        "stage_name": "café de GAMOYON",
+        "stage_date_at": "12:35-13:00"
+      },
+      {
+        "stage_name": "カラオケiisole",
+        "stage_date_at": "19:20-19:45"
+      }
+    ]
+  },
+  {
+    "id": 47,
+    "name": "土田洋樹",
+    "genre": "弾き語りPUNK",
+    "web_url": null,
+    "youtube_url": null,
+    "twitter_url": "https://twitter.com/egaowasuteki",
+    "instagram_url": null,
+    "facebook_url": null,
+    "image_path": "assets/images/artists/artist_47.jpg",
+    "profile_text": null,
+    "stage1_name": "馬肉料理専門店 和み家",
+    "stage1_date_at": "15:15-15:40",
+    "stage2_name": null,
+    "stage2_date_at": null,
+    "stages": [
+      {
+        "stage_name": "馬肉料理専門店 和み家",
+        "stage_date_at": "15:15-15:40"
+      }
+    ]
+  },
+  {
+    "id": 48,
+    "name": "ディスコ戦隊踊るんじゃっ！",
+    "genre": "ソウル/ファンク",
+    "web_url": "https://mimimi-syokudou.jimdofree.com",
+    "youtube_url": null,
+    "twitter_url": null,
+    "instagram_url": null,
+    "facebook_url": null,
+    "image_path": "assets/images/artists/artist_48.jpg",
+    "profile_text": "右手にファンク、左手にソウル！そして、胸にはミュージックへのリスペクトを！関西発！ニコニコハッピーバンド！ディスコ戦隊踊るんじゃっ！みんなが踊らないと音楽の火が消える？！その火が消えてしまうと９０年間人類を楽しませてきたサウンドは東京オリンピックを目前にあえなく枯れ果ててしまう！\n さあ、身体を揺らせ！身体踊れば心も踊るのさ！",
+    "stage1_name": "STUDIO GEAR",
+    "stage1_date_at": "15:45-16:10",
+    "stage2_name": null,
+    "stage2_date_at": null,
+    "stages": [
+      {
+        "stage_name": "STUDIO GEAR",
+        "stage_date_at": "15:45-16:10"
+      }
+    ]
+  },
+  {
+    "id": 49,
+    "name": "時藤夕樹",
+    "genre": "POPS",
+    "web_url": "https://yuki-tokito.jimdo.com/",
+    "youtube_url": null,
+    "twitter_url": null,
+    "instagram_url": null,
+    "facebook_url": null,
+    "image_path": "assets/images/artists/artist_49.jpg",
+    "profile_text": "島根県浜田市出身。水瓶座のO型/鍵盤弾き語り。心の端を抓るような感覚も嘘に隠れた小さな本音も、全部抱きしめていたい。誰かの”言葉”になる歌をぽつぽつ紡ぎながら、関西を中心に活動中。",
+    "stage1_name": "イタリアンバール ISOLA",
+    "stage1_date_at": "15:05-15:30",
+    "stage2_name": null,
+    "stage2_date_at": null,
+    "stages": [
+      {
+        "stage_name": "イタリアンバール ISOLA",
+        "stage_date_at": "15:05-15:30"
+      }
+    ]
+  },
+  {
+    "id": 50,
+    "name": "TriTetra",
+    "genre": "ROCK",
+    "web_url": "http://tritetra.adlf.jp/",
+    "youtube_url": null,
+    "twitter_url": null,
+    "instagram_url": null,
+    "facebook_url": null,
+    "image_path": "assets/images/artists/artist_50.jpg",
+    "profile_text": null,
+    "stage1_name": "STUDIO GEAR",
+    "stage1_date_at": "17:15-17:40",
+    "stage2_name": null,
+    "stage2_date_at": null,
+    "stages": [
+      {
+        "stage_name": "STUDIO GEAR",
+        "stage_date_at": "17:15-17:40"
+      }
+    ]
+  },
+  {
+    "id": 51,
+    "name": "ナカタニカズキ(空中投歌)",
+    "genre": "ROCK",
+    "web_url": "http://kuutyuutouka.com/",
+    "youtube_url": null,
+    "twitter_url": null,
+    "instagram_url": null,
+    "facebook_url": null,
+    "image_path": "assets/images/artists/artist_51.jpg",
+    "profile_text": "空中投歌でVOCAL/BASSやってます。当日はアコギとカホンでロックすることにしました。会場は初めての鐘の音。宜しくお願います！",
+    "stage1_name": "cafe bar 鐘の音",
+    "stage1_date_at": "14:15-14:40",
+    "stage2_name": null,
+    "stage2_date_at": null,
+    "stages": [
+      {
+        "stage_name": "cafe bar 鐘の音",
+        "stage_date_at": "14:15-14:40"
+      }
+    ]
+  },
+  {
+    "id": 52,
+    "name": "名切翔輝",
+    "genre": "POPS",
+    "web_url": null,
+    "youtube_url": "https://youtu.be/NHS9WD2rj0w",
+    "twitter_url": null,
+    "instagram_url": null,
+    "facebook_url": null,
+    "image_path": "assets/images/artists/artist_52.jpg",
+    "profile_text": null,
+    "stage1_name": "Machi cafe",
+    "stage1_date_at": "16:50-17:15",
+    "stage2_name": null,
+    "stage2_date_at": null,
+    "stages": [
+      {
+        "stage_name": "Machi cafe",
+        "stage_date_at": "16:50-17:15"
+      }
+    ]
+  },
+  {
+    "id": 53,
+    "name": "ナツキサトシ",
+    "genre": "ええ感じのやつ、人間くさいやつ",
+    "web_url": null,
+    "youtube_url": "https://www.youtube.com/channel/UCHTaHlOmkVrVhNO8u0Ew3Gg",
+    "twitter_url": null,
+    "instagram_url": null,
+    "facebook_url": null,
+    "image_path": "assets/images/artists/artist_53.jpg",
+    "profile_text": null,
+    "stage1_name": "39BAR BANBAN",
+    "stage1_date_at": "18:55-19:20",
+    "stage2_name": null,
+    "stage2_date_at": null,
+    "stages": [
+      {
+        "stage_name": "39BAR BANBAN",
+        "stage_date_at": "18:55-19:20"
+      }
+    ]
+  },
+  {
+    "id": 54,
+    "name": "西村加奈",
+    "genre": "POPS",
+    "web_url": "http://nishimurakana.com",
+    "youtube_url": null,
+    "twitter_url": null,
+    "instagram_url": null,
+    "facebook_url": null,
+    "image_path": "assets/images/artists/artist_54.jpg",
+    "profile_text": "神戸出身・大阪在住。関西を中心に名古屋・関東・北陸でも活動する鍵盤弾き語りセロトニン系シンガーソングライター。２０１１年、ライブスタート。２０１９年８月に９作目となるCD「夏のレクイエム/Oh baby(Ocean Breeze Mix）」をリリース。静動混在完全燃焼のライブパフォーマンスは必見の価値あり。",
+    "stage1_name": "城東商店街 角屋ステージ",
+    "stage1_date_at": "12:00-12:25",
+    "stage2_name": null,
+    "stage2_date_at": null,
+    "stages": [
+      {
+        "stage_name": "城東商店街 角屋ステージ",
+        "stage_date_at": "12:00-12:25"
+      }
+    ]
+  },
+  {
+    "id": 55,
+    "name": "二段優希",
+    "genre": "pops",
+    "web_url": null,
+    "youtube_url": null,
+    "twitter_url": "https://twitter.com/yuchayuchax",
+    "instagram_url": null,
+    "facebook_url": null,
+    "image_path": "assets/images/artists/artist_55.jpg",
+    "profile_text": null,
+    "stage1_name": "カラオケiisole",
+    "stage1_date_at": "16:25-16:50",
+    "stage2_name": null,
+    "stage2_date_at": null,
+    "stages": [
+      {
+        "stage_name": "カラオケiisole",
+        "stage_date_at": "16:25-16:50"
+      }
+    ]
+  },
+  {
+    "id": 56,
+    "name": "nehan",
+    "genre": "電子音楽",
+    "web_url": null,
+    "youtube_url": "https://youtu.be/7jCO57-7Vc4",
+    "twitter_url": null,
+    "instagram_url": null,
+    "facebook_url": null,
+    "image_path": "assets/images/artists/artist_56.jpg",
+    "profile_text": null,
+    "stage1_name": "馬肉料理専門店 和み家",
+    "stage1_date_at": "14:05-14:30",
+    "stage2_name": null,
+    "stage2_date_at": null,
+    "stages": [
+      {
+        "stage_name": "馬肉料理専門店 和み家",
+        "stage_date_at": "14:05-14:30"
+      }
+    ]
+  },
+  {
+    "id": 57,
+    "name": "のどか(ex.POLKADOT)",
+    "genre": "ポップロック",
+    "web_url": null,
+    "youtube_url": "https://youtu.be/9akwQu3aQaM",
+    "twitter_url": null,
+    "instagram_url": null,
+    "facebook_url": null,
+    "image_path": "assets/images/artists/artist_57.jpg",
+    "profile_text": null,
+    "stage1_name": "cafe bar 鐘の音",
+    "stage1_date_at": "18:20-18:45",
+    "stage2_name": null,
+    "stage2_date_at": null,
+    "stages": [
+      {
+        "stage_name": "cafe bar 鐘の音",
+        "stage_date_at": "18:20-18:45"
+      }
+    ]
+  },
+  {
+    "id": 58,
+    "name": "畑歩",
+    "genre": "人生",
+    "web_url": "http://aaaaachansing.wix.com/officialsite",
+    "youtube_url": null,
+    "twitter_url": null,
+    "instagram_url": null,
+    "facebook_url": null,
+    "image_path": "assets/images/artists/artist_58.jpg",
+    "profile_text": null,
+    "stage1_name": "cafe bar 鐘の音",
+    "stage1_date_at": "20:40-21:05",
+    "stage2_name": null,
+    "stage2_date_at": null,
+    "stages": [
+      {
+        "stage_name": "cafe bar 鐘の音",
+        "stage_date_at": "20:40-21:05"
+      }
+    ]
+  },
+  {
+    "id": 59,
+    "name": "ハンバーグハンバーグ",
+    "genre": "カントリー/フォーク",
+    "web_url": "https://mimimi-syokudou.jimdofree.com",
+    "youtube_url": null,
+    "twitter_url": null,
+    "instagram_url": null,
+    "facebook_url": null,
+    "image_path": "assets/images/artists/artist_59.jpg",
+    "profile_text": "カントリー＆ウェスタンに影響を受けたアコースティック楽団！肉と肉が絶妙な黄金比でぶつかり合う様は見応えたっぷり！おかわり自由のMCに、熱々鉄板の楽曲たちにと神戸の名物を世界にお届け！\n ”何を食べるかじゃない！誰と食べるかだー！”",
+    "stage1_name": "城東商店街 角屋ステージ",
+    "stage1_date_at": "13:10-13:35",
+    "stage2_name": null,
+    "stage2_date_at": null,
+    "stages": [
+      {
+        "stage_name": "城東商店街 角屋ステージ",
+        "stage_date_at": "13:10-13:35"
+      }
+    ]
+  },
+  {
+    "id": 60,
+    "name": "ヒノエショウエイ",
+    "genre": "POPS",
+    "web_url": null,
+    "youtube_url": "https://www.youtube.com/channel/UCybbhTPOcHMvqKaJxUdwnQ",
+    "twitter_url": null,
+    "instagram_url": null,
+    "facebook_url": null,
+    "image_path": "assets/images/artists/artist_60.jpg",
+    "profile_text": null,
+    "stage1_name": "馬肉料理専門店 和み家",
+    "stage1_date_at": "12:55-13:20",
+    "stage2_name": "イタリアンバール ISOLA",
+    "stage2_date_at": "14:30-14:55",
+    "stages": [
+      {
+        "stage_name": "馬肉料理専門店 和み家",
+        "stage_date_at": "12:55-13:20"
+      },
+      {
+        "stage_name": "イタリアンバール ISOLA",
+        "stage_date_at": "14:30-14:55"
+      }
+    ]
+  },
+  {
+    "id": 61,
+    "name": "funnySkash",
+    "genre": "ROCK",
+    "web_url": "http://funnyskash.com/",
+    "youtube_url": null,
+    "twitter_url": null,
+    "instagram_url": null,
+    "facebook_url": null,
+    "image_path": "assets/images/artists/artist_61.jpg",
+    "profile_text": null,
+    "stage1_name": "STUDIO GEAR",
+    "stage1_date_at": "13:30-13:55",
+    "stage2_name": "cafe bar 鐘の音",
+    "stage2_date_at": "15:25-15:50",
+    "stages": [
+      {
+        "stage_name": "STUDIO GEAR",
+        "stage_date_at": "13:30-13:55"
+      },
+      {
+        "stage_name": "cafe bar 鐘の音",
+        "stage_date_at": "15:25-15:50"
+      }
+    ]
+  },
+  {
+    "id": 62,
+    "name": "フクイヒロキ",
+    "genre": "保育園の先生",
+    "web_url": null,
+    "youtube_url": null,
+    "twitter_url": "https://twitter.com/ancoromochi3",
+    "instagram_url": null,
+    "facebook_url": null,
+    "image_path": "assets/images/artists/artist_62.jpg",
+    "profile_text": null,
+    "stage1_name": "イタリアンバール ISOLA",
+    "stage1_date_at": "13:20-13:45",
+    "stage2_name": "café de GAMOYON",
+    "stage2_date_at": "15:30-15:55",
+    "stages": [
+      {
+        "stage_name": "イタリアンバール ISOLA",
+        "stage_date_at": "13:20-13:45"
+      },
+      {
+        "stage_name": "café de GAMOYON",
+        "stage_date_at": "15:30-15:55"
+      }
+    ]
+  },
+  {
+    "id": 63,
+    "name": "ふじおかみゆき",
+    "genre": "J-POPROCK",
+    "web_url": null,
+    "youtube_url": null,
+    "twitter_url": "https://twitter.com/Fm1Yukey?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eaythor",
+    "instagram_url": null,
+    "facebook_url": null,
+    "image_path": "assets/images/artists/artist_63.jpg",
+    "profile_text": "日常の些細な疑問や心に引っかかった出来事を拾い、普段は言葉にせず諦めたり折り合いをつけている目に見えないものを愛と皮肉を込めて曲にする。あなたが主人公の物語。の挿入歌を届けます。",
+    "stage1_name": "イタリアンバール ISOLA",
+    "stage1_date_at": "16:50-17:15",
+    "stage2_name": null,
+    "stage2_date_at": null,
+    "stages": [
+      {
+        "stage_name": "イタリアンバール ISOLA",
+        "stage_date_at": "16:50-17:15"
+      }
+    ]
+  },
+  {
+    "id": 64,
+    "name": "heco",
+    "genre": "POPS",
+    "web_url": "https://hecoinformation.wixsite/heco",
+    "youtube_url": null,
+    "twitter_url": null,
+    "instagram_url": null,
+    "facebook_url": null,
+    "image_path": "assets/images/artists/artist_64.jpg",
+    "profile_text": null,
+    "stage1_name": "STUDIO GEAR",
+    "stage1_date_at": "12:00-12:25",
+    "stage2_name": "イタリアンバール ISOLA",
+    "stage2_date_at": "19:10-19:35",
+    "stages": [
+      {
+        "stage_name": "STUDIO GEAR",
+        "stage_date_at": "12:00-12:25"
+      },
+      {
+        "stage_name": "イタリアンバール ISOLA",
+        "stage_date_at": "19:10-19:35"
+      }
+    ]
+  },
+  {
+    "id": 65,
+    "name": "星野咲来",
+    "genre": "POPS",
+    "web_url": null,
+    "youtube_url": null,
+    "twitter_url": null,
+    "instagram_url": "https://www.instagram.com/20__sara__00/",
+    "facebook_url": null,
+    "image_path": "assets/images/artists/artist_65.jpg",
+    "profile_text": "２０００年生まれ。幼稚園時に”人に勇気や元気を与えられる歌手になりたい”と思い、２００６年～２０１２年までジュネスに所属。舞台、スチール、CMなどに出演。２０１７年、Instagramにて弾き語りカバー動画の投稿を開始。２０１９年、フォロワー数が５５００人を突破。現在の活動は音楽の枠に留まらず、サロンモデル、ラジオなど幅を広げている。",
+    "stage1_name": "Machi cafe",
+    "stage1_date_at": "13:20-13:45",
+    "stage2_name": "イタリアンバール ISOLA",
+    "stage2_date_at": "18:00-18:25",
+    "stages": [
+      {
+        "stage_name": "Machi cafe",
+        "stage_date_at": "13:20-13:45"
+      },
+      {
+        "stage_name": "イタリアンバール ISOLA",
+        "stage_date_at": "18:00-18:25"
+      }
+    ]
+  },
+  {
+    "id": 66,
+    "name": "Michael",
+    "genre": "弾き語り",
+    "web_url": null,
+    "youtube_url": "https://youtu.be/nLmNYYU78QU",
+    "twitter_url": null,
+    "instagram_url": null,
+    "facebook_url": null,
+    "image_path": "assets/images/artists/artist_66.jpg",
+    "profile_text": null,
+    "stage1_name": "イタリアンバール ISOLA",
+    "stage1_date_at": "12:10-12:35",
+    "stage2_name": null,
+    "stage2_date_at": null,
+    "stages": [
+      {
+        "stage_name": "イタリアンバール ISOLA",
+        "stage_date_at": "12:10-12:35"
+      }
+    ]
+  },
+  {
+    "id": 67,
+    "name": "正岡莉奈",
+    "genre": "POPS",
+    "web_url": "http://www.deflectial.com/masaoka_rina/",
+    "youtube_url": null,
+    "twitter_url": "https://twitter.com/msok_rn",
+    "instagram_url": "https://www.instagram.com/rn_msok/",
+    "facebook_url": null,
+    "image_path": "assets/images/artists/artist_67.jpg",
+    "profile_text": null,
+    "stage1_name": "Machi cafe",
+    "stage1_date_at": "12:45-13:10",
+    "stage2_name": "馬肉料理専門店 和み家",
+    "stage2_date_at": "15:50-16:15",
+    "stages": [
+      {
+        "stage_name": "Machi cafe",
+        "stage_date_at": "12:45-13:10"
+      },
+      {
+        "stage_name": "馬肉料理専門店 和み家",
+        "stage_date_at": "15:50-16:15"
+      }
+    ]
+  },
+  {
+    "id": 68,
+    "name": "Masaki-chi",
+    "genre": "POPS",
+    "web_url": "http://www.ms-musicoffice.com",
+    "youtube_url": null,
+    "twitter_url": null,
+    "instagram_url": null,
+    "facebook_url": null,
+    "image_path": "assets/images/artists/artist_68.jpg",
+    "profile_text": null,
+    "stage1_name": "イタリアンバール ISOLA",
+    "stage1_date_at": "12:45-13:10",
+    "stage2_name": null,
+    "stage2_date_at": null,
+    "stages": [
+      {
+        "stage_name": "イタリアンバール ISOLA",
+        "stage_date_at": "12:45-13:10"
+      }
+    ]
+  },
+  {
+    "id": 69,
+    "name": "茉寿",
+    "genre": "POPS",
+    "web_url": null,
+    "youtube_url": "https://youtu.be/_kruRuE1gPc",
+    "twitter_url": null,
+    "instagram_url": null,
+    "facebook_url": null,
+    "image_path": "assets/images/artists/artist_69.jpg",
+    "profile_text": null,
+    "stage1_name": "café de GAMOYON",
+    "stage1_date_at": "12:00-12:25",
+    "stage2_name": "カラオケiisole",
+    "stage2_date_at": "15:50-16:15",
+    "stages": [
+      {
+        "stage_name": "café de GAMOYON",
+        "stage_date_at": "12:00-12:25"
+      },
+      {
+        "stage_name": "カラオケiisole",
+        "stage_date_at": "15:50-16:15"
+      }
+    ]
+  },
+  {
+    "id": 70,
+    "name": "まつたけなぎさ",
+    "genre": "POPS",
+    "web_url": "nagisa-matsutake.jimdo.com",
+    "youtube_url": null,
+    "twitter_url": null,
+    "instagram_url": null,
+    "facebook_url": null,
+    "image_path": "assets/images/artists/artist_70.jpg",
+    "profile_text": "神戸市在住シンガーソングライター。ゆるいギターとよそ行きの声で、聴く人をダマし（癒し）ています。誰かの心に入り込めたら飲んびりと居座ってしまおう、そうしよう。",
+    "stage1_name": "Machi cafe",
+    "stage1_date_at": "14:30-14:55",
+    "stage2_name": "カラオケiisole",
+    "stage2_date_at": "17:35-18:00",
+    "stages": [
+      {
+        "stage_name": "Machi cafe",
+        "stage_date_at": "14:30-14:55"
+      },
+      {
+        "stage_name": "カラオケiisole",
+        "stage_date_at": "17:35-18:00"
+      }
+    ]
+  },
+  {
+    "id": 71,
+    "name": "松前公高",
+    "genre": "電子音楽",
+    "web_url": "http://www.manuera.com/?menu=artists&name=",
+    "youtube_url": null,
+    "twitter_url": null,
+    "instagram_url": null,
+    "facebook_url": null,
+    "image_path": "assets/images/artists/artist_71.jpg",
+    "profile_text": "８７年、エキスポを結成、アルファレコードからデビュー。様々なアーティストのレコーディングにマニピュレーターとして参加。セガのゲームミュージックS.S.T.BANDを経て、玉繭物語、キリークザブラッド、ビートマニア、太鼓の達人などのゲーム音楽を制作。「おしりかじり虫」、アニメ「キルミーベイベー」、NHK[大科学実験」などの音楽を制作。シンセサイザーを使ったソロライブを行う。",
+    "stage1_name": "和dining DANDAN",
+    "stage1_date_at": "17:00-17:30",
+    "stage2_name": null,
+    "stage2_date_at": null,
+    "stages": [
+      {
+        "stage_name": "和dining DANDAN",
+        "stage_date_at": "17:00-17:30"
+      }
+    ]
+  },
+  {
+    "id": 72,
+    "name": "松本一希",
+    "genre": "アコースティック",
+    "web_url": null,
+    "youtube_url": "https://youtu.be/RXJ_QYc5Rdl",
+    "twitter_url": null,
+    "instagram_url": null,
+    "facebook_url": null,
+    "image_path": "assets/images/artists/artist_72.jpg",
+    "profile_text": "大阪出身のシンガーソングライター。主にライブハウス、フリーイベントなどに出演。自主企画やワンマンライブなどを行なっている。２０１７年には路上LIVEで得た資金だけで４７都道府県を周りきるなど精力的に活動している。",
+    "stage1_name": "馬肉料理専門店 和み家",
+    "stage1_date_at": "13:30-13:55",
+    "stage2_name": "café de GAMOYON",
+    "stage2_date_at": "14:55-15:20",
+    "stages": [
+      {
+        "stage_name": "馬肉料理専門店 和み家",
+        "stage_date_at": "13:30-13:55"
+      },
+      {
+        "stage_name": "café de GAMOYON",
+        "stage_date_at": "14:55-15:20"
+      }
+    ]
+  },
+  {
+    "id": 73,
+    "name": "Miharu.",
+    "genre": "POPS",
+    "web_url": null,
+    "youtube_url": "https://youtu.be/lTHqNjtnwn0",
+    "twitter_url": null,
+    "instagram_url": null,
+    "facebook_url": null,
+    "image_path": "assets/images/artists/artist_73.jpg",
+    "profile_text": null,
+    "stage1_name": "cafe bar 鐘の音",
+    "stage1_date_at": "13:40-14:05",
+    "stage2_name": null,
+    "stage2_date_at": null,
+    "stages": [
+      {
+        "stage_name": "cafe bar 鐘の音",
+        "stage_date_at": "13:40-14:05"
+      }
+    ]
+  },
+  {
+    "id": 74,
+    "name": "森本雅哲",
+    "genre": "Pop Rock Guitar Rock Acoustic",
+    "web_url": "http://artist.aremond.net/masanori_morimoto/",
+    "youtube_url": "https://www.youtube.com/channel/UC7STzDl5mWvuPx1wgillR9Q",
+    "twitter_url": "https://twitter.com/morimoto_cfy",
+    "instagram_url": null,
+    "facebook_url": null,
+    "image_path": "assets/images/artists/artist_74.jpg",
+    "profile_text": "２０１８年より本格的にソロ活動開始。ポップス、ロック、ポエトリーラップ等の様々なジャンルを独自の解釈で表現する唯一無二のミュージシャン。",
+    "stage1_name": "café de GAMOYON",
+    "stage1_date_at": "14:20-14:45",
+    "stage2_name": null,
+    "stage2_date_at": null,
+    "stages": [
+      {
+        "stage_name": "café de GAMOYON",
+        "stage_date_at": "14:20-14:45"
+      }
+    ]
+  },
+  {
+    "id": 75,
+    "name": "モリヤサン",
+    "genre": "ROCK",
+    "web_url": null,
+    "youtube_url": null,
+    "twitter_url": null,
+    "instagram_url": null,
+    "facebook_url": null,
+    "image_path": "assets/images/artists/artist_75.jpg",
+    "profile_text": null,
+    "stage1_name": "39BAR BANBAN",
+    "stage1_date_at": "17:45-18:10",
+    "stage2_name": null,
+    "stage2_date_at": null,
+    "stages": [
+      {
+        "stage_name": "39BAR BANBAN",
+        "stage_date_at": "17:45-18:10"
+      }
+    ]
+  },
+  {
+    "id": 76,
+    "name": "森ゆきこ",
+    "genre": "アコースティック",
+    "web_url": null,
+    "youtube_url": "https://m.youtube.com/watch?v=wG5r6BvuMks",
+    "twitter_url": null,
+    "instagram_url": null,
+    "facebook_url": null,
+    "image_path": "assets/images/artists/artist_76.jpg",
+    "profile_text": null,
+    "stage1_name": "イタリアンバール ISOLA",
+    "stage1_date_at": "17:25-17:50",
+    "stage2_name": null,
+    "stage2_date_at": null,
+    "stages": [
+      {
+        "stage_name": "イタリアンバール ISOLA",
+        "stage_date_at": "17:25-17:50"
+      }
+    ]
+  },
+  {
+    "id": 77,
+    "name": "YAVZ.COM + シゲマツ シン",
+    "genre": "ダンス、ファンク",
+    "web_url": null,
+    "youtube_url": null,
+    "twitter_url": "https://twitter.com/search?f=tweets&q=%23",
+    "instagram_url": null,
+    "facebook_url": null,
+    "image_path": "assets/images/artists/artist_77.jpg",
+    "profile_text": "即興ビートメイキングとエレキベースのセッション。",
+    "stage1_name": "和dining DANDAN",
+    "stage1_date_at": "14:00-14:30",
+    "stage2_name": null,
+    "stage2_date_at": null,
+    "stages": [
+      {
+        "stage_name": "和dining DANDAN",
+        "stage_date_at": "14:00-14:30"
+      }
+    ]
+  },
+  {
+    "id": 78,
+    "name": "山内一生",
+    "genre": "POPS",
+    "web_url": null,
+    "youtube_url": "http://www.youtube.com/channel/UC3saDibUH9BAhcpHmnQfXkw",
+    "twitter_url": null,
+    "instagram_url": null,
+    "facebook_url": null,
+    "image_path": "assets/images/artists/artist_78.jpg",
+    "profile_text": "ゆっくり、優しく歌います。小休止したいなという方、ぜひ聴きに来てやってください。",
+    "stage1_name": "カラオケiisole",
+    "stage1_date_at": "15:15-15:40",
+    "stage2_name": null,
+    "stage2_date_at": null,
+    "stages": [
+      {
+        "stage_name": "カラオケiisole",
+        "stage_date_at": "15:15-15:40"
+      }
+    ]
+  },
+  {
+    "id": 79,
+    "name": "山本アラタ",
+    "genre": "POPS",
+    "web_url": "http://yamamotoarata.com",
+    "youtube_url": "https://youtube.com/arazoumusic",
+    "twitter_url": null,
+    "instagram_url": null,
+    "facebook_url": null,
+    "image_path": "assets/images/artists/artist_79.jpg",
+    "profile_text": "大阪出身、関西を中心に活動するギター弾き語りシンガーソングライター。２００４年ソロ活動開始。２００６年TV「水野真紀の魔法のレストラン」（毎日放送）のエンディングテーマに「SNOW DRIVE」が起用。２０１９年８月に１０作目となるCD「夏のレクイエム/真夏の恋の物語」をリリース。数多くのアーティストの楽曲アレンジやレコーディングエンジニアとしても活躍中。",
+    "stage1_name": "イタリアンバール ISOLA",
+    "stage1_date_at": "19:45-20:10",
+    "stage2_name": null,
+    "stage2_date_at": null,
+    "stages": [
+      {
+        "stage_name": "イタリアンバール ISOLA",
+        "stage_date_at": "19:45-20:10"
+      }
+    ]
+  },
+  {
+    "id": 80,
+    "name": "UNION☆JACK",
+    "genre": "POPS/ROCK/SKA/メロコア",
+    "web_url": null,
+    "youtube_url": "https://www.youtube.com/watch?v=McJLk0-SaK4&list=PL0678B3609295699C",
+    "twitter_url": null,
+    "instagram_url": null,
+    "facebook_url": null,
+    "image_path": "assets/images/artists/artist_80.jpg",
+    "profile_text": "2004年、Vo&Gt★0x3x8★が結成、大阪から全国的に活動の幅を広げて15周年を迎える。続けることを選んだ音楽は、人と出逢い紡ぎ、言葉を伝えるために唄っていく生きる証明。笑顔と感情を此処に。",
+    "stage1_name": "STUDIO GEAR",
+    "stage1_date_at": "14:15-14:40",
+    "stage2_name": null,
+    "stage2_date_at": null,
+    "stages": [
+      {
+        "stage_name": "STUDIO GEAR",
+        "stage_date_at": "14:15-14:40"
+      }
+    ]
+  },
+  {
+    "id": 81,
+    "name": "ユメミ(マヨナカセダイ)",
+    "genre": "パワーポップ",
+    "web_url": "http://mayonakasedai.com",
+    "youtube_url": null,
+    "twitter_url": null,
+    "instagram_url": null,
+    "facebook_url": null,
+    "image_path": "assets/images/artists/artist_81.jpg",
+    "profile_text": null,
+    "stage1_name": "cafe bar 鐘の音",
+    "stage1_date_at": "13:05-13:30",
+    "stage2_name": null,
+    "stage2_date_at": null,
+    "stages": [
+      {
+        "stage_name": "cafe bar 鐘の音",
+        "stage_date_at": "13:05-13:30"
+      }
+    ]
+  },
+  {
+    "id": 82,
+    "name": "吉川MANA",
+    "genre": "POPS・フォーク",
+    "web_url": "https://yoshikawa-mana.com",
+    "youtube_url": null,
+    "twitter_url": null,
+    "instagram_url": null,
+    "facebook_url": null,
+    "image_path": "assets/images/artists/artist_82.jpg",
+    "profile_text": "１９８９年１０月５日生まれ。大阪市平野区出身。就職活動中に１０年前の自分から届いた一通の手紙から、シンガーソングライターになることを決意。２０１９年１０月６日、生まれ育った平野区でのチャリティーワンマンコンサートは満員御礼大成功！吉川MANAの「人間パワー」をお届けします！",
+    "stage1_name": "café de GAMOYON",
+    "stage1_date_at": "13:45-14:10",
+    "stage2_name": "カラオケiisole",
+    "stage2_date_at": "18:10-18:35",
+    "stages": [
+      {
+        "stage_name": "café de GAMOYON",
+        "stage_date_at": "13:45-14:10"
+      },
+      {
+        "stage_name": "カラオケiisole",
+        "stage_date_at": "18:10-18:35"
+      }
+    ]
+  },
+  {
+    "id": 83,
+    "name": "吉田文人",
+    "genre": "POPS",
+    "web_url": null,
+    "youtube_url": null,
+    "twitter_url": "https://twitter.com/yoshidasenpaii",
+    "instagram_url": null,
+    "facebook_url": null,
+    "image_path": "assets/images/artists/artist_83.jpg",
+    "profile_text": "蒲生四丁目で働き始めて16年のサラリーマンシンガー。過ぎ行く日々の中で湧き起こる感情を、日常の言葉で歌います。強かったり、くじけたり、愛したり、怒ったりを表現する、等身大の歌うたい。",
+    "stage1_name": "カラオケiisole",
+    "stage1_date_at": "19:55-20:20",
+    "stage2_name": null,
+    "stage2_date_at": null,
+    "stages": [
+      {
+        "stage_name": "カラオケiisole",
+        "stage_date_at": "19:55-20:20"
+      }
+    ]
+  },
+  {
+    "id": 84,
+    "name": "Runny Noize",
+    "genre": "POPPUNK",
+    "web_url": null,
+    "youtube_url": "https://www.youtube.com/channel/UClhxBCblsFVybaCnWNQbgg",
+    "twitter_url": null,
+    "instagram_url": null,
+    "facebook_url": null,
+    "image_path": "assets/images/artists/artist_84.jpg",
+    "profile_text": "お笑いと音楽の二刀流\n ラニーノイズが繰り出す愉快、痛快、疾走感ある極上メロディに聴き惚れろ～\n 是非ともライブを体感しに来てください！",
+    "stage1_name": "STUDIO GEAR",
+    "stage1_date_at": "18:00-18:25",
+    "stage2_name": null,
+    "stage2_date_at": null,
+    "stages": [
+      {
+        "stage_name": "STUDIO GEAR",
+        "stage_date_at": "18:00-18:25"
+      }
+    ]
+  },
+  {
+    "id": 85,
+    "name": "ラリラボリッチ",
+    "genre": "邪気祓い",
+    "web_url": "http://rallylabrich.themedia.jp/",
+    "youtube_url": null,
+    "twitter_url": null,
+    "instagram_url": null,
+    "facebook_url": null,
+    "image_path": "assets/images/artists/artist_85.jpg",
+    "profile_text": null,
+    "stage1_name": "STUDIO GEAR",
+    "stage1_date_at": "16:30-16:55",
+    "stage2_name": null,
+    "stage2_date_at": null,
+    "stages": [
+      {
+        "stage_name": "STUDIO GEAR",
+        "stage_date_at": "16:30-16:55"
+      }
+    ]
+  },
+  {
+    "id": 86,
+    "name": "リンネソウ",
+    "genre": "アコースティック",
+    "web_url": null,
+    "youtube_url": "https://www.youtube.com/channel/UCZZIk3I6o51Hr_OQZzpMUA",
+    "twitter_url": null,
+    "instagram_url": null,
+    "facebook_url": null,
+    "image_path": "assets/images/artists/artist_86.jpg",
+    "profile_text": null,
+    "stage1_name": "カラオケiisole",
+    "stage1_date_at": "13:30-13:55",
+    "stage2_name": null,
+    "stage2_date_at": null,
+    "stages": [
+      {
+        "stage_name": "カラオケiisole",
+        "stage_date_at": "13:30-13:55"
+      }
+    ]
+  },
+  {
+    "id": 87,
+    "name": "和製ケビン",
+    "genre": "ギター弾き語り",
+    "web_url": "https://waseikeving.jimdo.com",
+    "youtube_url": null,
+    "twitter_url": null,
+    "instagram_url": null,
+    "facebook_url": null,
+    "image_path": "assets/images/artists/artist_87.jpg",
+    "profile_text": "福井県出身大阪在住シンガーソングライター。年間２００本のペースでライブを精力的に行いながらこれまでにシングル５枚アルバム１枚を発表。２０１６年には全都道府県ツアーを敢行。２０１８年には開歌１０００言として１３００人キャパの豊中文化芸術センター大ホールでの公演を成功させる。",
+    "stage1_name": "城東商店街 角屋ステージ",
+    "stage1_date_at": "14:20-14:45",
+    "stage2_name": "cafe bar 鐘の音",
+    "stage2_date_at": "16:00-16:25",
+    "stages": [
+      {
+        "stage_name": "城東商店街 角屋ステージ",
+        "stage_date_at": "14:20-14:45"
+      },
+      {
+        "stage_name": "cafe bar 鐘の音",
+        "stage_date_at": "16:00-16:25"
+      }
+    ]
+  },
+  {
+    "id": 88,
+    "name": "我、君に咲き誇る",
+    "genre": "ROCK",
+    "web_url": "http://warekiminisakihokoru.jimdo.com",
+    "youtube_url": "https://www.youtube.com/channel/UCyxVmjLfykWViUyr4r6oCZA",
+    "twitter_url": null,
+    "instagram_url": null,
+    "facebook_url": null,
+    "image_path": "assets/images/artists/artist_88.jpg",
+    "profile_text": "愛知県名古屋発、激情歌うたい１ピースバンド\n 「我、君に咲き誇る」\n Gt.Vo山本悠介（通称山）２００７年から２０１４年夏まで地元愛知県岡崎市を拠点にアコースティック２ピースバンド山ゆりとして全国展開で活動。インディーズながらに音源を全国リリースしストリートからライブハウスとありとあらゆる場所で活動をこなす。解散後、新たに相方を加えて我、君に咲き誇るとして２０１６年５月２０日の自主企画タイトルをバンド名として始動。２年の２ピースを経て２０１８年９月に相方脱退。覚悟の表れでもあったバンド名を生涯の最後の音楽活動名と胸に刻み、ソロ活動としてノンストップで継続。現在は磨いた心と研ぎ澄ませたライブ感で多くの人に言葉を届ける。",
+    "stage1_name": "蒲生おでん 笑月 wazuki",
+    "stage1_date_at": "17:20-17:45",
+    "stage2_name": "cafe bar 鐘の音",
+    "stage2_date_at": "19:30-19:55",
+    "stages": [
+      {
+        "stage_name": "蒲生おでん 笑月 wazuki",
+        "stage_date_at": "17:20-17:45"
+      },
+      {
+        "stage_name": "cafe bar 鐘の音",
+        "stage_date_at": "19:30-19:55"
+      }
+    ]
+  },
+  {
+    "id": 89,
+    "name": "VJ ださくら",
+    "genre": "元斗皇拳",
+    "web_url": "https://www.nicovideo.jp/user/3455689",
+    "youtube_url": null,
+    "twitter_url": null,
+    "instagram_url": null,
+    "facebook_url": null,
+    "image_path": "assets/images/artists/artist_89.jpg",
+    "profile_text": "プログレ好きの鍵盤奏者時々DJ。ごく稀にVJも。\n 2chのオフ板発祥で今年16周年を迎えるオールジャンルクラブイベント『異臭騒ぎ』の現オーガナイザーであり、実は1989年のTM NetworkCAROLツアーにダンサーとして参加していた経歴を持つ自称「小室ファミリー」。",
+    "stage1_name": "和dining DANDAN",
+    "stage1_date_at": "12:00-18:00",
+    "stage2_name": null,
+    "stage2_date_at": null,
+    "stages": [
+      {
+        "stage_name": "和dining DANDAN",
+        "stage_date_at": "12:00-18:00"
+      }
+    ]
+  },
+  {
+    "id": 90,
+    "name": "DJ akihito",
+    "genre": "ユーロビート/ジュリアナテクノ",
+    "web_url": null,
+    "youtube_url": null,
+    "twitter_url": "https://twitter.com/akihitotan?s=09",
+    "instagram_url": null,
+    "facebook_url": null,
+    "image_path": "assets/images/artists/artist_90.jpg",
+    "profile_text": "ジャンルはユーロビート（パラパラダンス系）、８０ｓディスコなどを中心にフリスタと言うイベントサークルにてDJをさせて貰ってます。お陰様で今回で３回目の出演となります。今回もユーロビートを中心に皆さんと一緒にがもよんフェスを盛り上げて行きたいと思いますので、宜しくお願いします。",
+    "stage1_name": "EVENT DINING BAR MORUDELIC",
+    "stage1_date_at": "13:20-14:00",
+    "stage2_name": null,
+    "stage2_date_at": null,
+    "stages": [
+      {
+        "stage_name": "EVENT DINING BAR MORUDELIC",
+        "stage_date_at": "13:20-14:00"
+      }
+    ]
+  },
+  {
+    "id": 91,
+    "name": "DJ Atsushi Minami",
+    "genre": "House/Crossover",
+    "web_url": null,
+    "youtube_url": null,
+    "twitter_url": null,
+    "instagram_url": null,
+    "facebook_url": null,
+    "image_path": "assets/images/artists/artist_91.jpg",
+    "profile_text": null,
+    "stage1_name": "EVENT DINING BAR MORUDELIC",
+    "stage1_date_at": "14:40-15:20",
+    "stage2_name": null,
+    "stage2_date_at": null,
+    "stages": [
+      {
+        "stage_name": "EVENT DINING BAR MORUDELIC",
+        "stage_date_at": "14:40-15:20"
+      }
+    ]
+  },
+  {
+    "id": 92,
+    "name": "DJ かずみ",
+    "genre": "EuroBeat",
+    "web_url": null,
+    "youtube_url": null,
+    "twitter_url": "https://twitter.com/ahiru_kazu",
+    "instagram_url": null,
+    "facebook_url": null,
+    "image_path": "assets/images/artists/artist_92.jpg",
+    "profile_text": "元クラブ常連が選曲する、８０’９０’Disc&Clubミュージック、J-popEuroBeatなど聞き慣れた曲中心で、お送りしています。現在、SNS等で配信活動中。",
+    "stage1_name": "EVENT DINING BAR MORUDELIC",
+    "stage1_date_at": "12:00-12:40",
+    "stage2_name": null,
+    "stage2_date_at": null,
+    "stages": [
+      {
+        "stage_name": "EVENT DINING BAR MORUDELIC",
+        "stage_date_at": "12:00-12:40"
+      }
+    ]
+  },
+  {
+    "id": 93,
+    "name": "DJ kenken",
+    "genre": "House",
+    "web_url": null,
+    "youtube_url": null,
+    "twitter_url": null,
+    "instagram_url": null,
+    "facebook_url": null,
+    "image_path": "assets/images/artists/artist_93.jpg",
+    "profile_text": null,
+    "stage1_name": "EVENT DINING BAR MORUDELIC",
+    "stage1_date_at": "15:20-16:00",
+    "stage2_name": null,
+    "stage2_date_at": null,
+    "stages": [
+      {
+        "stage_name": "EVENT DINING BAR MORUDELIC",
+        "stage_date_at": "15:20-16:00"
+      }
+    ]
+  },
+  {
+    "id": 94,
+    "name": "DJ こんちぇる",
+    "genre": "J-POP",
+    "web_url": null,
+    "youtube_url": null,
+    "twitter_url": null,
+    "instagram_url": null,
+    "facebook_url": null,
+    "image_path": "assets/images/artists/artist_94.jpg",
+    "profile_text": null,
+    "stage1_name": "EVENT DINING BAR MORUDELIC",
+    "stage1_date_at": "16:40-17:20",
+    "stage2_name": null,
+    "stage2_date_at": null,
+    "stages": [
+      {
+        "stage_name": "EVENT DINING BAR MORUDELIC",
+        "stage_date_at": "16:40-17:20"
+      }
+    ]
+  },
+  {
+    "id": 95,
+    "name": "DJ ZAKIYAMA",
+    "genre": "オールジャンル",
+    "web_url": null,
+    "youtube_url": null,
+    "twitter_url": null,
+    "instagram_url": null,
+    "facebook_url": null,
+    "image_path": "assets/images/artists/artist_95.jpg",
+    "profile_text": null,
+    "stage1_name": "EVENT DINING BAR MORUDELIC",
+    "stage1_date_at": "19:20-20:00",
+    "stage2_name": null,
+    "stage2_date_at": null,
+    "stages": [
+      {
+        "stage_name": "EVENT DINING BAR MORUDELIC",
+        "stage_date_at": "19:20-20:00"
+      }
+    ]
+  },
+  {
+    "id": 96,
+    "name": "DJ xanadujin",
+    "genre": "ゲームミュージック/チップチューン",
+    "web_url": null,
+    "youtube_url": null,
+    "twitter_url": "https://twitter.com/xanadujin",
+    "instagram_url": null,
+    "facebook_url": null,
+    "image_path": "assets/images/artists/artist_96.jpg",
+    "profile_text": null,
+    "stage1_name": "EVENT DINING BAR MORUDELIC",
+    "stage1_date_at": "17:20-18:00",
+    "stage2_name": null,
+    "stage2_date_at": null,
+    "stages": [
+      {
+        "stage_name": "EVENT DINING BAR MORUDELIC",
+        "stage_date_at": "17:20-18:00"
+      }
+    ]
+  },
+  {
+    "id": 97,
+    "name": "DJ G☆E (Game Editor)",
+    "genre": "GAMEMUSIC×DANCEMUSIC",
+    "web_url": null,
+    "youtube_url": null,
+    "twitter_url": null,
+    "instagram_url": null,
+    "facebook_url": null,
+    "image_path": "assets/images/artists/artist_97.jpg",
+    "profile_text": "合い言葉は『GAME IS FASHION!!』、大阪8bitシーンlive＆fashion集団【Command?】所属のtrack maker。\n ゲーム好きがリミットブレイクし、ゲームサウンドや効果音、電子音で、私式Game Dance Musicを制作。\n 頭には『スーパーファミコンのコントローラ』を装備して、ゲーム音楽で踊れる音楽を作りながら活動中。\n 好きな言葉は『宇宙の法則が乱れる』。",
+    "stage1_name": "和dining DANDAN",
+    "stage1_date_at": "16:00-17:00",
+    "stage2_name": null,
+    "stage2_date_at": null,
+    "stages": [
+      {
+        "stage_name": "和dining DANDAN",
+        "stage_date_at": "16:00-17:00"
+      }
+    ]
+  },
+  {
+    "id": 98,
+    "name": "DJ せんむ。",
+    "genre": "ROCK/GAMEMUSIC",
+    "web_url": null,
+    "youtube_url": null,
+    "twitter_url": "http://twitter.com/senmu69",
+    "instagram_url": null,
+    "facebook_url": null,
+    "image_path": "assets/images/artists/artist_98.jpg",
+    "profile_text": "神戸生まれ神戸育ち神戸在住。一児の父。神戸大阪を中心にライブハウスや音楽BAR等でDJ活動中。ロックバンド系DJ、ゲームミュージックDJ、時々面白DJ。基本ライブハウスで飲んで遊んでる人。音楽のある楽しい空間がとにかく大好き。他にゲーム・野球・競馬・大相撲・車も好き。大の鉄道ファン（乗り鉄）。古くからの音楽仲間達が今盛り上げる街がもよんに神戸からグッドミュージック持っていきます！よろしくお願いします！",
+    "stage1_name": "EVENT DINING BAR MORUDELIC",
+    "stage1_date_at": "18:00-18:40",
+    "stage2_name": null,
+    "stage2_date_at": null,
+    "stages": [
+      {
+        "stage_name": "EVENT DINING BAR MORUDELIC",
+        "stage_date_at": "18:00-18:40"
+      }
+    ]
+  },
+  {
+    "id": 99,
+    "name": "DJ ダンマス",
+    "genre": "テクノ",
+    "web_url": null,
+    "youtube_url": null,
+    "twitter_url": null,
+    "instagram_url": null,
+    "facebook_url": null,
+    "image_path": "assets/images/artists/artist_99.jpg",
+    "profile_text": "和dining DANDANを始めて今年で節目の１０年！中１の時にYMOのテクノポップスの洗礼を受けて以来、斜め上の人生を歩んできたおんとし巳年５４歳。まだまだ頑張っていきますよー！Unyoさんはじめテクノ系の皆様のお助けに感謝しております！",
+    "stage1_name": "和dining DANDAN",
+    "stage1_date_at": "12:00-12:30",
+    "stage2_name": "和dining DANDAN",
+    "stage2_date_at": "17:30-18:00",
+    "stages": [
+      {
+        "stage_name": "和dining DANDAN",
+        "stage_date_at": "12:00-12:30"
+      },
+      {
+        "stage_name": "和dining DANDAN",
+        "stage_date_at": "17:30-18:00"
+      }
+    ]
+  },
+  {
+    "id": 100,
+    "name": "DJ TNTK",
+    "genre": "House＆J-POP",
+    "web_url": null,
+    "youtube_url": null,
+    "twitter_url": null,
+    "instagram_url": null,
+    "facebook_url": null,
+    "image_path": "assets/images/artists/artist_100.jpg",
+    "profile_text": "CMでたまたま流れていたPerfumeのポリリズムに興味を引かれ、ネットで動画を見ているうちにそれまで特に興味もなかった”テクノポップ”にはまり、クラブミュージックに興味を持つ。色んな廻り合わせやタイミングでDJを始め、「みんなで楽しもう！」をモットーに色々な活動を始める。DJとは別に「GlitterGirlsAssort」などのアイドルイベントやライブイベントも主催して人気を博している。",
+    "stage1_name": "和dining DANDAN",
+    "stage1_date_at": "12:30-13:30",
+    "stage2_name": null,
+    "stage2_date_at": null,
+    "stages": [
+      {
+        "stage_name": "和dining DANDAN",
+        "stage_date_at": "12:30-13:30"
+      }
+    ]
+  },
+  {
+    "id": 101,
+    "name": "DJ D.P.T-aka",
+    "genre": null,
+    "web_url": null,
+    "youtube_url": null,
+    "twitter_url": null,
+    "instagram_url": null,
+    "facebook_url": null,
+    "image_path": "assets/images/artists/artist_101.jpg",
+    "profile_text": null,
+    "stage1_name": "EVENT DINING BAR MORUDELIC",
+    "stage1_date_at": "14:00-14:40",
+    "stage2_name": null,
+    "stage2_date_at": null,
+    "stages": [
+      {
+        "stage_name": "EVENT DINING BAR MORUDELIC",
+        "stage_date_at": "14:00-14:40"
+      }
+    ]
+  },
+  {
+    "id": 102,
+    "name": "DJ とみやん",
+    "genre": "オールジャンル",
+    "web_url": null,
+    "youtube_url": null,
+    "twitter_url": null,
+    "instagram_url": null,
+    "facebook_url": null,
+    "image_path": "assets/images/artists/artist_102.jpg",
+    "profile_text": null,
+    "stage1_name": "EVENT DINING BAR MORUDELIC",
+    "stage1_date_at": "16:00-16:40",
+    "stage2_name": null,
+    "stage2_date_at": null,
+    "stages": [
+      {
+        "stage_name": "EVENT DINING BAR MORUDELIC",
+        "stage_date_at": "16:00-16:40"
+      }
+    ]
+  },
+  {
+    "id": 103,
+    "name": "DJ DEEN×MIKU",
+    "genre": "オールジャンル",
+    "web_url": null,
+    "youtube_url": null,
+    "twitter_url": null,
+    "instagram_url": null,
+    "facebook_url": null,
+    "image_path": "assets/images/artists/artist_103.jpg",
+    "profile_text": null,
+    "stage1_name": "EVENT DINING BAR MORUDELIC",
+    "stage1_date_at": "18:40-19:20",
+    "stage2_name": null,
+    "stage2_date_at": null,
+    "stages": [
+      {
+        "stage_name": "EVENT DINING BAR MORUDELIC",
+        "stage_date_at": "18:40-19:20"
+      }
+    ]
+  },
+  {
+    "id": 104,
+    "name": "DJ YOU×MIKU",
+    "genre": "オールジャンル",
+    "web_url": null,
+    "youtube_url": null,
+    "twitter_url": null,
+    "instagram_url": null,
+    "facebook_url": null,
+    "image_path": "assets/images/artists/artist_104.jpg",
+    "profile_text": null,
+    "stage1_name": "EVENT DINING BAR MORUDELIC",
+    "stage1_date_at": "12:40-13:20",
+    "stage2_name": null,
+    "stage2_date_at": null,
+    "stages": [
+      {
+        "stage_name": "EVENT DINING BAR MORUDELIC",
+        "stage_date_at": "12:40-13:20"
+      }
+    ]
+  }
+]

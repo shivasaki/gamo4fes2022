@@ -1,0 +1,91 @@
+<div class="message-wrapper" (click)="openMessageModal()">
+  <div class="thumb-content">
+    <figure class="thumb-figure">
+      <img [src]="organizerThumbUrl" alt="{{organizer.name}}のサムネイル" draggable="false">
+    </figure>
+  </div>
+  <div class="message-content">
+    <div class="label-content">
+      <small>GAMO4Fes 2020-2021 開催を終えて</small>
+      <a class="message-link">主催者 {{organizer.name}} からメッセージ</a>
+    </div>
+  </div>
+</div>
+
+<ng-template #messageModal>
+  <div class="modal-inner">
+    <div class="heading-content text-right">
+      <button type="button" class="btn-close" aria-label="Close" (click)="onModalClose()">
+        <span class="cross-mark"></span>
+      </button>
+    </div>
+    <div class="modal-body">
+      <div class="top-content">
+        <div class="heading-content">
+          <span class="heading-text">Message</span>
+          <span class="heading-text-jp">主催者から皆様へのメッセージ</span>
+        </div>
+        <figure class="image-content message-image"
+                [style.background-image]="'url(' + messageTopImageUrl + ')'"
+        ></figure>
+      </div>
+      <div class="bottom-content">
+        <div class="description">
+          <!--description-->
+          <p class="description-text">
+            <span>
+              2015年から始まったGAMO4fes.
+              コノマチで、ガモヨンで、５年連続で開催してきた
+              わたしにとって人生のひとつの生きているカタチ。
+            </span>
+            <span>
+              コロナ渦の中で今、わたしに出来ること。
+              音楽を止めない、経済を止めない
+              繋げてきた縁も、創ってきた文化も
+              紡いできた全てを手放さないこと、守ること。
+            </span>
+
+            <span>
+              がもよんフェスを通じて
+              此処で繋がって広がった仲間達
+              出逢いも別れも再会も。
+            </span>
+
+            <span>
+              ぜんぶぜんぶが沢山の勉強になって
+              経験と知識と成長をくれました。
+            </span>
+
+            <span>
+              何度もやめようとおもった
+              何度もくじけそうになった
+              その時に支えてくれたのはみんなでした
+              ありがとう、ありがとう。
+            </span>
+
+            <span>
+              2020年を戦ってきた皆様と
+              2021年を乗り越えていけるように
+              この世界が暗闇から抜けてヒカリが見えたとき
+              また蒲生四丁目で会えるように。
+              <br>
+              沢山の大切な絆を紡いでいこう
+              必ず、約束しよう。またね。
+            </span>
+          </p>
+          <p class="text-right">
+            がもよんフェス主催<br>
+            cafe bar 鐘の音 0x3x8
+          </p>
+        </div>
+      </div>
+      <div class="back-button-wrapper">
+        <button type="button" class="btn btn-link btn-back"
+                (click)="onModalClose()">
+          <i class="icomoon-angle-left-solid"></i>
+          Back
+        </button>
+      </div>
+    </div>
+  </div>
+</ng-template>

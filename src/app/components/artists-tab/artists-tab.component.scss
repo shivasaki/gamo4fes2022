@@ -1,0 +1,299 @@
+@import "variables";
+@import "~node_modules/bootstrap-sass/assets/stylesheets/bootstrap/variables";
+
+.tab-heading {
+  text-align: center;
+  font-size: 26px;
+  color: $primary-color;
+  font-family: 'Lilita One', $font-family-base;
+  .day-label {
+    display: block;
+  }
+  .week-day {
+    display: block;
+    font-size: 16px;
+  }
+}
+
+.tab-content {
+  padding: 16px;
+}
+
+.channel-heading {
+  font-size: 32px;
+  color: $primary-color;
+  font-family: 'Lilita One', sans-serif;
+  .stage-label {
+    display: inline-block;
+    margin-left: 8px;
+    font-family: 'mamelon', $font-family-base;
+    color: inherit;
+  }
+}
+
+.artist-list {
+  display: flex;
+  width: 100%;
+  justify-content: center;
+  flex-wrap: wrap;
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+
+.list-items {
+  margin: 32px;
+}
+
+.artist-label {
+  max-width: 210px;
+  display: block;
+  margin-top: 8px;
+  text-align: center;
+  color: #333;
+  font-weight: bold;
+  font-size: 15px;
+  word-break: break-all;
+}
+
+.artist-thumb-content {
+  border-radius: 16px;
+  width: 210px;
+  height: 210px;
+  overflow: hidden;
+  > img {
+    width: 100%;
+    height: 100%;
+    max-height: 100%;
+    display: block;
+    object-fit: cover;
+    font-size: 11px;
+    color: #ccc;
+    white-space: pre-wrap;
+    word-break: break-word;
+  }
+}
+
+.mc-heading {
+  margin: 40px 0 0;
+  font-size: 30px;
+  color: $primary-color;
+  font-family: 'Lilita One', sans-serif;
+  text-align: center;
+  letter-spacing: 0.05em;
+}
+
+.moderator-list {
+  .artist-thumb-content {
+    border-radius: 100px;
+    width: 180px;
+    height: 180px;
+  }
+}
+
+.heading-content {
+  display: inline-block;
+  margin: 0;
+  padding: 0 0 16px 0;
+  color: $primary-color;
+  letter-spacing: .05em;
+  text-align: center;
+  font-size: 30px;
+  .heading-text {
+    position: relative;
+    display: block;
+    font-size: 55px;
+    font-family: 'Lilita One', sans-serif;
+    &:before, &:after {
+      content: '';
+      display: inline-block;
+      position: absolute;
+      top: 0;
+      bottom: 0;
+      width: 48px;
+      height: 2px;
+      margin: auto 0 auto -80px;
+      background: linear-gradient(to right, #00A09B, #00B383);
+    }
+    &:before {
+      left: 0;
+      margin: auto 0 auto -80px;
+    }
+    &:after {
+      right: 0;
+      margin: auto -80px auto 0;
+    }
+  }
+  .heading-text-jp {
+    display: block;
+    font-size: 60%;
+    font-family: 'mamelon', sans-serif;
+  }
+}
+
+.time-table-wrapper {
+  padding-top: 80px;
+  text-align: center;
+  .time-table-content {
+    padding: 24px 48px;
+    position: relative;
+  }
+  .time-table-image {
+    width: 400px;
+    max-width: 100%;
+    display: inline-block;
+    object-fit: contain;
+    &.is-wide {
+      width: 640px;
+    }
+  }
+}
+
+.btn-arrow {
+  position: absolute;
+  top: -96px;
+  bottom: 0;
+  width: 50px;
+  font-size: 38px;
+  line-height: 1.1;
+  border-radius: 10px;
+  background-color: transparent;
+  outline: none;
+  box-shadow: none;
+  height: 70%;
+  margin: auto 0;
+  &.arrow-left {
+    left: 0;
+  }
+  &.arrow-right {
+    right: 0;
+  }
+  &:focus, &:active {
+    box-shadow: none;
+    outline: none;
+  }
+  &:disabled {
+    opacity: .6;
+  }
+  > i {
+    display: inline-block;
+    color: #999;
+  }
+}
+
+.button-wrapper {
+  width: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+  padding: 48px 0;
+}
+
+:host ::ng-deep {
+  .nav-tabs {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+  }
+}
+
+@media screen and (max-width: $screen-md) {
+  .heading-content {
+    font-size: 30px;
+    padding: 0 0 16px 0;
+    &:before {
+      width: 60px;
+      height: 2px;
+      margin: 0 auto;
+    }
+    .heading-text {
+      font-size: 40px;
+    }
+    .heading-text-jp {
+      margin-top: 8px;
+      font-size: 45%;
+    }
+  }
+}
+
+@media screen and (max-width: $screen-xs) {
+  .tab-heading {
+    font-size: 16px;
+    .day-label {
+      display: block;
+    }
+    .week-day {
+      font-size: 12px;
+    }
+  }
+  .tab-content {
+    padding: 16px 0;
+  }
+  .list-items {
+    margin: 8px;
+  }
+
+  .artist-label {
+    max-width: 140px;
+    margin-top: 8px;
+    font-size: 13px;
+  }
+
+  .artist-thumb-content {
+    width: 140px;
+    height: 140px;
+    > img {
+      font-size: 9px;
+    }
+  }
+  .moderator-list {
+    .artist-thumb-content {
+      width: 140px;
+      height: 140px;
+      > img {
+        font-size: 9px;
+      }
+    }
+  }
+
+  .time-table-wrapper {
+    padding-top: 80px;
+    .time-table-content {
+      padding: 24px 8px;
+    }
+    .time-table-image {
+      width: auto;
+      max-width: calc(100% - 40px);
+      &.is-wide {
+        width: 100%;
+      }
+    }
+  }
+  .btn-arrow {
+    top: -96px;
+    bottom: 0;
+    width: 50px;
+    font-size: 32px;
+    height: 60%;
+    margin: auto 0;
+    &.arrow-left {
+      left: -16px;
+    }
+    &.arrow-right {
+      right: -16px;
+    }
+  }
+
+  :host ::ng-deep {
+    .tabset {
+      .nav > li > a {
+        padding: 8px;
+      }
+    }
+    .nav-tabs {
+      justify-content: flex-start;
+      overflow-x: auto;
+      overflow-y: visible;
+    }
+  }
+}

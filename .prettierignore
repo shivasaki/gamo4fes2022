@@ -1,0 +1,9 @@
+**/.dist
+.env
+src/environments/*
+proxy.conf.json
+/typings
+public
+
+*.html
+**/*.routes.ts

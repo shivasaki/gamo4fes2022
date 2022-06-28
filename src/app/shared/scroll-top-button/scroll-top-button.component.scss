@@ -1,0 +1,50 @@
+@import "~node_modules/bootstrap-sass/assets/stylesheets/bootstrap/variables";
+
+.ss-scroll-top-button-wrapper {
+  width: 50px;
+  height: 50px;
+  border-radius: 50%;
+  background-color: #666;
+  position: fixed;
+  bottom: 60px;
+  right: 30px;
+  transition: all 0.3s ease-in 0s;
+  opacity: 0;
+  pointer-events: none;
+  outline: none;
+  border: none;
+  z-index: 9998;
+  transform: translateY(150px);
+  will-change: transform, opacity;
+  &.is-active {
+    opacity: 0.5;
+    pointer-events: all;
+    cursor: pointer;
+    transform: translateY(0);
+    transition: transform ease 0.3s 0s;
+  }
+  &:hover {
+    opacity: .9;
+    transition: all 0.3s ease-in 0s;
+  }
+  > .scroll-button-arrow {
+    line-height: 47px;
+    text-align: center;
+    font-size: 22px;
+    display: inline-block;
+    width: 100%;
+    color: #fff;
+  }
+}
+
+:host-context(.modal-open) {
+  .ss-scroll-top-button-wrapper {
+    display: none;
+  }
+}
+
+@media screen and (max-width: $screen-md) {
+  .ss-scroll-top-button-wrapper {
+    right: 16px;
+  }
+}

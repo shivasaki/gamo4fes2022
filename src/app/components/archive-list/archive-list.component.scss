@@ -1,0 +1,49 @@
+@import "variables";
+@import "~node_modules/bootstrap-sass/assets/stylesheets/bootstrap/variables";
+
+.player-content {
+  padding: 42px;
+  border-radius: 16px;
+  background-color: #fff;
+  text-align: center;
+  > iframe {
+    height: 400px;
+  }
+  .player-heading {
+    margin: 16px 0 0;
+    padding: 0;
+    color: $primary-color;
+    font-family: 'Lilita One', 'mamelon', $font-family-base;
+    font-size: 38px;
+    text-align: center;
+    > small {
+      color: inherit;
+      display: inline-block;
+      font-size: 70%;
+      vertical-align: middle;
+    }
+    .caption {
+      margin-left: 12px;
+    }
+  }
+  & + .player-content {
+    margin-top: 40px;
+  }
+}
+
+@media screen and (max-width: $screen-xs) {
+  .player-content {
+    padding: 16px;
+    > iframe {
+      height: 200px;
+    }
+    .player-heading {
+      margin: 8px 0 0;
+      padding: 0;
+      font-size: 24px;
+    }
+    & + .player-content {
+      margin-top: 32px;
+    }
+  }
+}

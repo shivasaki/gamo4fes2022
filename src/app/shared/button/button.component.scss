@@ -1,0 +1,27 @@
+:host {
+  display: inline-block;
+  min-width: 190px;
+}
+
+.btn-main {
+  display: block;
+  padding: 16px 24px;
+  background: transparent linear-gradient(260deg, #00A09B 0, #00B383 100%) 0 0 no-repeat padding-box;
+  border-radius: 36px;
+  text-align: center;
+  color: #fff;
+  border: none;
+  box-shadow: none;
+  font-size: 18px;
+  outline: none;
+  opacity: 1;
+  transition: opacity .2s ease-in 0s;
+  > span {
+    display: inline-block;
+    padding-left: 8px;
+  }
+  &:hover, &:focus {
+    opacity: 0.9;
+    transition: opacity .2s ease-in 0s;
+  }
+}

@@ -1,0 +1,19 @@
+<carousel
+  [itemsPerSlide]="itemsPerSlide"
+  [singleSlideOffset]="singleSlideOffset"
+  [showIndicators]="false"
+  [noWrap]="(archives?.length || 0) < itemsPerSlide"
+>
+  <slide *ngFor="let archive of archives; index as i" (click)="onOpenLink(archive)">
+    <div class="slide-inner">
+      <iframe width="90%" [src]="safeUrls[i]" frameborder="0"
+              allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+              allowfullscreen
+              style="pointer-events: none"
+      ></iframe>
+      <div class="carousel-caption">
+        <h6>{{archive.archiveDate}}</h6>
+      </div>
+    </div>
+  </slide>
+</carousel>

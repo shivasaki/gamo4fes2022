@@ -1,0 +1,73 @@
+<ng-container *ngIf="{ value :stageArtists$ | async} as snapShot">
+  <tabset class="tabset" #artistTabs>
+    <tab *ngFor="let tab of tabItems; index as i"
+         [id]="tab"
+         (selectTab)="onSelectedTab($event)">
+      <ng-template tabHeading>
+        <div class="tab-heading">
+          <span class="day-label">
+            {{tab | date:'M/dd'}}
+          </span>
+          <span class="week-day">({{tab | date:'E'}})</span>
+        </div>
+      </ng-template>
+    </tab>
+  </tabset>
+  <div class="tab-content">
+    <ng-container *ngFor="let stageArtist of snapShot.value">
+      <h3 class="channel-heading">Channel{{stageArtist.channel}}
+        <small class="stage-label">（{{stageArtist.locationName}})</small>
+      </h3>
+      <ul class="artist-list">
+        <li *ngFor="let artist of stageArtist.artists" class="list-items">
+          <figure class="artist-thumb-content">
+            <img [src]="getThumbUrl(artist.id)" alt="{{artist.name}}のサムネイル" draggable="false">
+          </figure>
+          <a class="artist-label" [href]="artist.snsLink" target="_blank">{{artist.name}}</a>
+        </li>
+      </ul>
+    </ng-container>
+    <!--MC-->
+    <h4 class="mc-heading">MC</h4>
+    <ul class="artist-list moderator-list">
+      <li *ngFor="let artist of (mcs$ |async)?.artists" class="list-items">
+        <figure class="artist-thumb-content">
+          <img [src]="getThumbUrl(artist.id)" alt="{{artist.name}}のサムネイル" draggable="false">
+        </figure>
+        <a class="artist-label" [href]="artist.snsLink" target="_blank">{{artist.name}}</a>
+      </li>
+    </ul>
+
+    <!--タイムテーブル-->
+    <div *ngIf="timeTableSrc$.value" class="time-table-wrapper" id="time-table">
+      <h4 class="heading-content">
+        <span class="heading-text">Time Table</span>
+        <span class="heading-text-jp">タイムテーブル</span>
+      </h4>
+      <div class="time-table-content">
+        <img [src]="timeTableSrc$.value"
+             [class.is-wide]="(snapShot.value?.length || 0) > 1"
+             class="time-table-image"
+             draggable="false"
+             alt="タイムテーブル"
+        >
+        <button type="button" class="btn btn-arrow arrow-left"
+                [disabled]="0 > (activeTabIndex - 1)"
+                (click)="onChangeTab(activeTabIndex - 1)">
+          <i class="icomoon-angle-left-solid"></i>
+        </button>
+        <button type="button" class="btn btn-arrow arrow-right"
+                [disabled]="tabItems.length <= (activeTabIndex + 1)"
+                (click)="onChangeTab(activeTabIndex + 1)"
+        ><i class="icomoon-angle-right-solid"></i>
+        </button>
+        <div class="button-wrapper">
+          <app-button
+            labelText="Weekly TimeTable"
+            (clicked)="onOpenTimeTable()"
+          ></app-button>
+        </div>
+      </div>
+    </div>
+  </div>
+</ng-container>

@@ -1,0 +1,96 @@
+<header class="header hidden-xs">
+  <nav class="navbar navbar-default navbar-static-top navbar-fixed-top">
+    <div class="container">
+      <div class="navbar-header">
+        <a class="navbar-logo" (click)="onMoveTopPage()" title="TOPページ"></a>
+        <ul class="nav-list">
+          <li class="list-item item-artists">
+            <a class="nav-list-menu" (click)="onScrollToFragment('artist')">
+              <span class="nav-title">Artist</span>
+            </a>
+          </li>
+          <li class="list-item item-time-table">
+            <a class="nav-list-menu" (click)="onScrollToFragment('time-table')">
+              <span class="nav-title">Time Table</span>
+            </a>
+          </li>
+          <li class="list-item item-live">
+            <a class="nav-list-menu" (click)="onScrollToFragment('archive')">
+              <span class="nav-title">Archive</span>
+            </a>
+          </li>
+          <li class="list-item item-goods">
+            <a class="nav-list-menu" href="https://kanenone.base.ec/" target="_blank" rel="noreferrer">
+              <span class="nav-title">Goods</span>
+            </a>
+          </li>
+
+          <li class="list-item item-news">
+            <a class="nav-list-menu" href="https://ameblo.jp/g4f-official" target="_blank" rel="noreferrer">
+              <span class="nav-title">Blog</span>
+            </a>
+          </li>
+        </ul>
+      </div>
+    </div>
+  </nav>
+</header>
+
+<div class="box visible-xs-block"
+     [class.is-active]="isActiveHamburger"
+     [@addModal]="isActiveHamburger.toString()">
+  <div class="btn" [ngClass]="isActiveHamburger ? 'active' : 'not-active'"
+       (click)="onChangeHamburgerState()">
+    <span></span>
+    <span></span>
+    <span></span>
+  </div>
+  <!--ナビゲーション-->
+  <ng-container *ngIf="isActiveHamburger">
+    <ul [@navList]="navAnimationState" (@navList.done)="onAnimationDone($event)"
+        class="hamburger-nav-list">
+      <li class="top-link-item">
+        <a class="nav-list-menu"
+           (click)="onMoveTopPage()" title="TOPページ">
+          <span class="nav-title">トップ</span>
+        </a>
+      </li>
+      <li class="nav-list-item item-artists">
+        <a class="nav-list-menu" (click)="onScrollToFragment('artist')">
+          <i class="icomoon-guitar-solid"></i>
+          <span class="nav-title">Artist</span>
+        </a>
+      </li>
+      <li class="nav-list-item item-time-table">
+        <a class="nav-list-menu" (click)="onScrollToFragment('time-table')">
+          <i class="icomoon-map-regular"></i>
+          <span class="nav-title">Time Table</span>
+        </a>
+      </li>
+      <li class="nav-list-item item-live">
+        <a class="nav-list-menu" (click)="onScrollToFragment('archive')"
+        >
+          <i class="icomoon-drum-solid"></i>
+          <span class="nav-title">Archive</span>
+        </a>
+      </li>
+      <li class="nav-list-item item-goods">
+        <a class="nav-list-menu" href="https://kanenone.base.ec/" target="_blank" rel="noreferrer"
+           (click)="onChangeHamburgerState()"
+        >
+          <i class="icomoon-tshirt-solid"></i>
+          <span class="nav-title">Goods</span>
+        </a>
+      </li>
+
+      <li class="nav-list-item item-news">
+        <a class="nav-list-menu" href="https://ameblo.jp/g4f-official" target="_blank" rel="noreferrer"
+           (click)="onChangeHamburgerState()"
+        >
+          <i class="icomoon-laptop-solid"></i>
+          <span class="nav-title">Blog</span>
+        </a>
+      </li>
+    </ul>
+  </ng-container>
+</div>

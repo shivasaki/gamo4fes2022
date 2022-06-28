@@ -1,0 +1,34 @@
+[
+  {
+    "id": 1,
+    "name": "Tシャツ",
+    "goods_detail_text": "フォレストxホワイト",
+    "price": "3,000円",
+    "image_path": "assets/images/goods/t-shirts.png",
+    "image_path_small": "assets/images/goods/t-shirts_s.png"
+  },
+  {
+    "id": 2,
+    "name": "パーカー",
+    "goods_detail_text": "ブラックxホワイト",
+    "price": "4,000円",
+    "image_path": "assets/images/goods/hoodie.png",
+    "image_path_small": "assets/images/goods/hoodie_s.png"
+  },
+  {
+    "id": 3,
+    "name": "ラバーバンド",
+    "goods_detail_text": "ブラックxグリーン",
+    "price": "500円",
+    "image_path": "assets/images/goods/rubber-band.png",
+    "image_path_small": "assets/images/goods/rubber-band_s.png"
+  },
+  {
+    "id": 4,
+    "name": "缶バッジ",
+    "goods_detail_text": "デザイン4種類",
+    "price": "各200円",
+    "image_path": "assets/images/goods/badge.png",
+    "image_path_small": "assets/images/goods/badge_s.png"
+  }
+]

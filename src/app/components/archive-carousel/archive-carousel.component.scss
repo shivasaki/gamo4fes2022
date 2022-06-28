@@ -1,0 +1,18 @@
+
+.slide-inner {
+  text-align: center;
+}
+
+slide {
+  max-width: 300px;
+}
+
+.carousel-caption {
+  padding-bottom: 0;
+}
+
+:host ::ng-deep {
+  .carousel-inner {
+    justify-content: center;
+  }
+}

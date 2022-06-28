@@ -1,0 +1,21 @@
+@import "../variables";
+
+@font-face {
+  font-family: 'mamelon';
+  src: url($fonts-path + '/mamelon/Mamelon.otf') format("opentype");
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Lilita One';
+  src: url($fonts-path + '/lilita/LilitaOne-Regular.ttf') format("truetype");
+  font-display: swap;
+}
+
+//@font-face {
+//  font-family: 'Noto Sans JP';
+//  src: url($fonts-path + '/noto-sans/NotoSansCJKjp-Light.woff') format("woff"),
+//  url($fonts-path + '/noto-sans/NotoSansCJKjp-Light.eot') format("embedded-opentype");
+//  font-weight: 300;
+//  font-display: swap;
+//}
